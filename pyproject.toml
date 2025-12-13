@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gstatot"   
+version = "0.0.1"
+description = "Global StationaryOT: Trajectory infrence for aging time courses of single-cell snapshots"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }          # or use a SPDX string / file
+authors = [
+  { name = "Cole Boyle", email = "cole.boyle@math.ubc.ca" }
+]
+
+dependencies = [
+  "jax == 0.7.1",
+  "jaxopt == 0.8.3",
+  "ott-jax == 0.5.1",
+  "scanpy",
+  "xarray",
+  "pot",
+  "scipy",
+]
+
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+]
+
+[project.optional-dependencies]
+cuda12 = [
+    "jax[cuda12]",
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

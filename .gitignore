@@ -1,0 +1,6 @@
+__pycache__/**
+*.pyc
+*.mtx
+*.h5ad
+*.gz
+*.egg-info/

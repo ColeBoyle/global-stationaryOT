@@ -1,0 +1,2105 @@
+Method,Age,Fate,Top genes,AP
+gStatOT,0.0 (yrs),Baso/Mast,5,0.10959833307225093
+StatOT,0.0 (yrs),Baso/Mast,5,0.2510086248485063
+GT-TC,0.0 (yrs),Baso/Mast,5,0.4
+gStatOT,2.0 (yrs),Baso/Mast,5,0.11207871297468919
+StatOT,2.0 (yrs),Baso/Mast,5,0.0
+GT-TC,2.0 (yrs),Baso/Mast,5,0.5800000000000001
+gStatOT,4.0 (yrs),Baso/Mast,5,0.1116028608614811
+StatOT,4.0 (yrs),Baso/Mast,5,0.0
+GT-TC,4.0 (yrs),Baso/Mast,5,0.71
+gStatOT,10.0 (yrs),Baso/Mast,5,0.20810531309889752
+StatOT,10.0 (yrs),Baso/Mast,5,0.0
+GT-TC,10.0 (yrs),Baso/Mast,5,0.78
+gStatOT,12.0 (yrs),Baso/Mast,5,0.2064218114153958
+StatOT,12.0 (yrs),Baso/Mast,5,0.006880625952084199
+GT-TC,12.0 (yrs),Baso/Mast,5,0.8
+gStatOT,17.0 (yrs),Baso/Mast,5,0.12493420478258402
+StatOT,17.0 (yrs),Baso/Mast,5,0.20539993775287893
+GT-TC,17.0 (yrs),Baso/Mast,5,0.78
+gStatOT,25.0 (yrs),Baso/Mast,5,0.2207904684901662
+StatOT,25.0 (yrs),Baso/Mast,5,0.25703112773098524
+GT-TC,25.0 (yrs),Baso/Mast,5,0.88
+gStatOT,32.0 (yrs),Baso/Mast,5,0.2157201272149023
+StatOT,32.0 (yrs),Baso/Mast,5,0.0
+GT-TC,32.0 (yrs),Baso/Mast,5,0.8
+gStatOT,35.0 (yrs),Baso/Mast,5,0.20574658597310025
+StatOT,35.0 (yrs),Baso/Mast,5,0.04158082997594529
+GT-TC,35.0 (yrs),Baso/Mast,5,0.6
+gStatOT,45.0 (yrs),Baso/Mast,5,0.25408212912956746
+StatOT,45.0 (yrs),Baso/Mast,5,0.8111111111111111
+GT-TC,45.0 (yrs),Baso/Mast,5,0.8
+gStatOT,53.0 (yrs),Baso/Mast,5,0.009419308178057051
+StatOT,53.0 (yrs),Baso/Mast,5,0.0
+GT-TC,53.0 (yrs),Baso/Mast,5,0.8
+gStatOT,62.0 (yrs),Baso/Mast,5,0.0032258064516129032
+StatOT,62.0 (yrs),Baso/Mast,5,0.12415458937198068
+GT-TC,62.0 (yrs),Baso/Mast,5,0.56
+gStatOT,76.0 (yrs),Baso/Mast,5,0.07566349616769785
+StatOT,76.0 (yrs),Baso/Mast,5,0.0
+GT-TC,76.0 (yrs),Baso/Mast,5,0.8
+gStatOT,77.0 (yrs),Baso/Mast,5,0.07569134162540755
+StatOT,77.0 (yrs),Baso/Mast,5,0.029500068295675343
+GT-TC,77.0 (yrs),Baso/Mast,5,1.0
+gStatOT,10.0 (wks),Baso/Mast,5,0.06125558073847977
+StatOT,10.0 (wks),Baso/Mast,5,0.0019382401909967643
+GT-TC,10.0 (wks),Baso/Mast,5,1.0
+gStatOT,11.0 (wks),Baso/Mast,5,0.06125558073847977
+StatOT,11.0 (wks),Baso/Mast,5,0.00284434054159361
+GT-TC,11.0 (wks),Baso/Mast,5,1.0
+gStatOT,13.0 (wks),Baso/Mast,5,0.036818479586013496
+StatOT,13.0 (wks),Baso/Mast,5,0.008512354152367878
+GT-TC,13.0 (wks),Baso/Mast,5,1.0
+gStatOT,14.0 (wks),Baso/Mast,5,0.03672232573985965
+StatOT,14.0 (wks),Baso/Mast,5,0.40315904139433545
+GT-TC,14.0 (wks),Baso/Mast,5,0.88
+gStatOT,15.0 (wks),Baso/Mast,5,0.014116903726970461
+StatOT,15.0 (wks),Baso/Mast,5,0.5197542997542998
+GT-TC,15.0 (wks),Baso/Mast,5,0.5633333333333332
+gStatOT,20.0 (wks),Baso/Mast,5,0.0
+StatOT,20.0 (wks),Baso/Mast,5,0.002729685646922309
+GT-TC,20.0 (wks),Baso/Mast,5,0.675
+gStatOT,22.0 (wks),Baso/Mast,5,0.0
+StatOT,22.0 (wks),Baso/Mast,5,0.0
+GT-TC,22.0 (wks),Baso/Mast,5,0.9
+gStatOT,23.0 (wks),Baso/Mast,5,0.0
+StatOT,23.0 (wks),Baso/Mast,5,0.0
+GT-TC,23.0 (wks),Baso/Mast,5,1.0
+gStatOT,0.0 (yrs),Erythroid,5,0.23657691479146842
+StatOT,0.0 (yrs),Erythroid,5,0.16046980195587007
+GT-TC,0.0 (yrs),Erythroid,5,0.2
+gStatOT,2.0 (yrs),Erythroid,5,0.4872580645161291
+StatOT,2.0 (yrs),Erythroid,5,0.5821052631578947
+GT-TC,2.0 (yrs),Erythroid,5,0.11499999999999999
+gStatOT,4.0 (yrs),Erythroid,5,0.3293872376293717
+StatOT,4.0 (yrs),Erythroid,5,0.0
+GT-TC,4.0 (yrs),Erythroid,5,0.44166666666666665
+gStatOT,10.0 (yrs),Erythroid,5,0.2508838383838384
+StatOT,10.0 (yrs),Erythroid,5,0.07162857547436988
+GT-TC,10.0 (yrs),Erythroid,5,0.5966666666666667
+gStatOT,12.0 (yrs),Erythroid,5,0.23990520973279592
+StatOT,12.0 (yrs),Erythroid,5,0.2153777919138443
+GT-TC,12.0 (yrs),Erythroid,5,0.7216666666666667
+gStatOT,17.0 (yrs),Erythroid,5,0.0450841149696985
+StatOT,17.0 (yrs),Erythroid,5,0.01899455906134864
+GT-TC,17.0 (yrs),Erythroid,5,0.78
+gStatOT,25.0 (yrs),Erythroid,5,0.3777056277056277
+StatOT,25.0 (yrs),Erythroid,5,0.2893999225706543
+GT-TC,25.0 (yrs),Erythroid,5,0.66
+gStatOT,32.0 (yrs),Erythroid,5,0.5051851851851852
+StatOT,32.0 (yrs),Erythroid,5,0.7142857142857142
+GT-TC,32.0 (yrs),Erythroid,5,0.7
+gStatOT,35.0 (yrs),Erythroid,5,0.49788833609729133
+StatOT,35.0 (yrs),Erythroid,5,0.6075757575757575
+GT-TC,35.0 (yrs),Erythroid,5,0.88
+gStatOT,45.0 (yrs),Erythroid,5,0.7814285714285714
+StatOT,45.0 (yrs),Erythroid,5,0.020697972622694606
+GT-TC,45.0 (yrs),Erythroid,5,1.0
+gStatOT,53.0 (yrs),Erythroid,5,0.7059523809523809
+StatOT,53.0 (yrs),Erythroid,5,0.3541791541791542
+GT-TC,53.0 (yrs),Erythroid,5,0.9
+gStatOT,62.0 (yrs),Erythroid,5,0.47043650793650793
+StatOT,62.0 (yrs),Erythroid,5,0.6242424242424243
+GT-TC,62.0 (yrs),Erythroid,5,0.615
+gStatOT,76.0 (yrs),Erythroid,5,0.86
+StatOT,76.0 (yrs),Erythroid,5,0.4666666666666667
+GT-TC,76.0 (yrs),Erythroid,5,0.8
+gStatOT,77.0 (yrs),Erythroid,5,0.86
+StatOT,77.0 (yrs),Erythroid,5,0.835
+GT-TC,77.0 (yrs),Erythroid,5,1.0
+gStatOT,10.0 (wks),Erythroid,5,0.8714285714285713
+StatOT,10.0 (wks),Erythroid,5,0.43479427549194993
+GT-TC,10.0 (wks),Erythroid,5,1.0
+gStatOT,11.0 (wks),Erythroid,5,0.8714285714285713
+StatOT,11.0 (wks),Erythroid,5,0.5008492129246065
+GT-TC,11.0 (wks),Erythroid,5,1.0
+gStatOT,13.0 (wks),Erythroid,5,0.8833333333333334
+StatOT,13.0 (wks),Erythroid,5,0.3902116402116402
+GT-TC,13.0 (wks),Erythroid,5,1.0
+gStatOT,14.0 (wks),Erythroid,5,0.9
+StatOT,14.0 (wks),Erythroid,5,0.8666666666666666
+GT-TC,14.0 (wks),Erythroid,5,0.88
+gStatOT,15.0 (wks),Erythroid,5,0.72
+StatOT,15.0 (wks),Erythroid,5,0.0928068600728525
+GT-TC,15.0 (wks),Erythroid,5,0.78
+gStatOT,20.0 (wks),Erythroid,5,0.85
+StatOT,20.0 (wks),Erythroid,5,0.8583333333333334
+GT-TC,20.0 (wks),Erythroid,5,0.8
+gStatOT,22.0 (wks),Erythroid,5,0.8711111111111112
+StatOT,22.0 (wks),Erythroid,5,0.9428571428571428
+GT-TC,22.0 (wks),Erythroid,5,0.8
+gStatOT,23.0 (wks),Erythroid,5,0.8211111111111112
+StatOT,23.0 (wks),Erythroid,5,0.9666666666666666
+GT-TC,23.0 (wks),Erythroid,5,0.8
+gStatOT,0.0 (yrs),Lymphoid,5,1.0
+StatOT,0.0 (yrs),Lymphoid,5,0.9666666666666666
+GT-TC,0.0 (yrs),Lymphoid,5,1.0
+gStatOT,2.0 (yrs),Lymphoid,5,1.0
+StatOT,2.0 (yrs),Lymphoid,5,1.0
+GT-TC,2.0 (yrs),Lymphoid,5,1.0
+gStatOT,4.0 (yrs),Lymphoid,5,1.0
+StatOT,4.0 (yrs),Lymphoid,5,0.9266666666666667
+GT-TC,4.0 (yrs),Lymphoid,5,1.0
+gStatOT,10.0 (yrs),Lymphoid,5,1.0
+StatOT,10.0 (yrs),Lymphoid,5,1.0
+GT-TC,10.0 (yrs),Lymphoid,5,1.0
+gStatOT,12.0 (yrs),Lymphoid,5,1.0
+StatOT,12.0 (yrs),Lymphoid,5,0.9666666666666666
+GT-TC,12.0 (yrs),Lymphoid,5,1.0
+gStatOT,17.0 (yrs),Lymphoid,5,0.9666666666666666
+StatOT,17.0 (yrs),Lymphoid,5,0.9028571428571428
+GT-TC,17.0 (yrs),Lymphoid,5,1.0
+gStatOT,25.0 (yrs),Lymphoid,5,1.0
+StatOT,25.0 (yrs),Lymphoid,5,0.9028571428571428
+GT-TC,25.0 (yrs),Lymphoid,5,1.0
+gStatOT,32.0 (yrs),Lymphoid,5,1.0
+StatOT,32.0 (yrs),Lymphoid,5,1.0
+GT-TC,32.0 (yrs),Lymphoid,5,1.0
+gStatOT,35.0 (yrs),Lymphoid,5,1.0
+StatOT,35.0 (yrs),Lymphoid,5,1.0
+GT-TC,35.0 (yrs),Lymphoid,5,1.0
+gStatOT,45.0 (yrs),Lymphoid,5,1.0
+StatOT,45.0 (yrs),Lymphoid,5,0.9666666666666666
+GT-TC,45.0 (yrs),Lymphoid,5,1.0
+gStatOT,53.0 (yrs),Lymphoid,5,1.0
+StatOT,53.0 (yrs),Lymphoid,5,0.5259649122807017
+GT-TC,53.0 (yrs),Lymphoid,5,0.9
+gStatOT,62.0 (yrs),Lymphoid,5,1.0
+StatOT,62.0 (yrs),Lymphoid,5,0.5688888888888889
+GT-TC,62.0 (yrs),Lymphoid,5,0.9
+gStatOT,76.0 (yrs),Lymphoid,5,0.9111111111111111
+StatOT,76.0 (yrs),Lymphoid,5,0.8766666666666667
+GT-TC,76.0 (yrs),Lymphoid,5,1.0
+gStatOT,77.0 (yrs),Lymphoid,5,0.9111111111111111
+StatOT,77.0 (yrs),Lymphoid,5,0.43979871175523344
+GT-TC,77.0 (yrs),Lymphoid,5,1.0
+gStatOT,10.0 (wks),Lymphoid,5,1.0
+StatOT,10.0 (wks),Lymphoid,5,0.9666666666666666
+GT-TC,10.0 (wks),Lymphoid,5,0.71
+gStatOT,11.0 (wks),Lymphoid,5,0.885
+StatOT,11.0 (wks),Lymphoid,5,0.6295238095238095
+GT-TC,11.0 (wks),Lymphoid,5,0.78
+gStatOT,13.0 (wks),Lymphoid,5,0.885
+StatOT,13.0 (wks),Lymphoid,5,0.9666666666666666
+GT-TC,13.0 (wks),Lymphoid,5,0.78
+gStatOT,14.0 (wks),Lymphoid,5,0.925
+StatOT,14.0 (wks),Lymphoid,5,0.6544444444444444
+GT-TC,14.0 (wks),Lymphoid,5,0.9
+gStatOT,15.0 (wks),Lymphoid,5,0.925
+StatOT,15.0 (wks),Lymphoid,5,0.5059649122807017
+GT-TC,15.0 (wks),Lymphoid,5,0.9
+gStatOT,20.0 (wks),Lymphoid,5,0.8253968253968254
+StatOT,20.0 (wks),Lymphoid,5,0.7666666666666667
+GT-TC,20.0 (wks),Lymphoid,5,0.8
+gStatOT,22.0 (wks),Lymphoid,5,0.925
+StatOT,22.0 (wks),Lymphoid,5,0.9428571428571428
+GT-TC,22.0 (wks),Lymphoid,5,0.78
+gStatOT,23.0 (wks),Lymphoid,5,0.7416666666666667
+StatOT,23.0 (wks),Lymphoid,5,0.14640637140637142
+GT-TC,23.0 (wks),Lymphoid,5,0.71
+gStatOT,0.0 (yrs),Mono/DC,5,0.5393939393939393
+StatOT,0.0 (yrs),Mono/DC,5,0.19211803606592312
+GT-TC,0.0 (yrs),Mono/DC,5,0.32
+gStatOT,2.0 (yrs),Mono/DC,5,0.8261904761904763
+StatOT,2.0 (yrs),Mono/DC,5,0.43274624918460536
+GT-TC,2.0 (yrs),Mono/DC,5,0.56
+gStatOT,4.0 (yrs),Mono/DC,5,0.7388888888888889
+StatOT,4.0 (yrs),Mono/DC,5,0.0
+GT-TC,4.0 (yrs),Mono/DC,5,0.63
+gStatOT,10.0 (yrs),Mono/DC,5,0.9028571428571428
+StatOT,10.0 (yrs),Mono/DC,5,0.0
+GT-TC,10.0 (yrs),Mono/DC,5,0.675
+gStatOT,12.0 (yrs),Mono/DC,5,0.8392857142857142
+StatOT,12.0 (yrs),Mono/DC,5,0.46367813473076624
+GT-TC,12.0 (yrs),Mono/DC,5,0.675
+gStatOT,17.0 (yrs),Mono/DC,5,0.7783333333333333
+StatOT,17.0 (yrs),Mono/DC,5,0.4683458646616542
+GT-TC,17.0 (yrs),Mono/DC,5,0.76
+gStatOT,25.0 (yrs),Mono/DC,5,0.925
+StatOT,25.0 (yrs),Mono/DC,5,0.8444444444444444
+GT-TC,25.0 (yrs),Mono/DC,5,0.855
+gStatOT,32.0 (yrs),Mono/DC,5,0.8528571428571429
+StatOT,32.0 (yrs),Mono/DC,5,0.4721043229724902
+GT-TC,32.0 (yrs),Mono/DC,5,0.9
+gStatOT,35.0 (yrs),Mono/DC,5,0.8528571428571429
+StatOT,35.0 (yrs),Mono/DC,5,0.0002107481559536354
+GT-TC,35.0 (yrs),Mono/DC,5,1.0
+gStatOT,45.0 (yrs),Mono/DC,5,0.8666666666666666
+StatOT,45.0 (yrs),Mono/DC,5,0.6923351158645277
+GT-TC,45.0 (yrs),Mono/DC,5,0.9
+gStatOT,53.0 (yrs),Mono/DC,5,1.0
+StatOT,53.0 (yrs),Mono/DC,5,0.673109243697479
+GT-TC,53.0 (yrs),Mono/DC,5,0.855
+gStatOT,62.0 (yrs),Mono/DC,5,0.8833333333333334
+StatOT,62.0 (yrs),Mono/DC,5,0.6491812865497076
+GT-TC,62.0 (yrs),Mono/DC,5,0.7416666666666667
+gStatOT,76.0 (yrs),Mono/DC,5,0.31506883920677026
+StatOT,76.0 (yrs),Mono/DC,5,0.0
+GT-TC,76.0 (yrs),Mono/DC,5,0.52
+gStatOT,77.0 (yrs),Mono/DC,5,0.8761904761904763
+StatOT,77.0 (yrs),Mono/DC,5,0.7247619047619047
+GT-TC,77.0 (yrs),Mono/DC,5,0.4833333333333333
+gStatOT,10.0 (wks),Mono/DC,5,0.9666666666666666
+StatOT,10.0 (wks),Mono/DC,5,0.8188235294117646
+GT-TC,10.0 (wks),Mono/DC,5,1.0
+gStatOT,11.0 (wks),Mono/DC,5,0.9666666666666666
+StatOT,11.0 (wks),Mono/DC,5,0.925
+GT-TC,11.0 (wks),Mono/DC,5,1.0
+gStatOT,13.0 (wks),Mono/DC,5,0.925
+StatOT,13.0 (wks),Mono/DC,5,0.719047619047619
+GT-TC,13.0 (wks),Mono/DC,5,0.9
+gStatOT,14.0 (wks),Mono/DC,5,1.0
+StatOT,14.0 (wks),Mono/DC,5,0.5585281385281384
+GT-TC,14.0 (wks),Mono/DC,5,0.88
+gStatOT,15.0 (wks),Mono/DC,5,1.0
+StatOT,15.0 (wks),Mono/DC,5,0.9666666666666666
+GT-TC,15.0 (wks),Mono/DC,5,0.52
+gStatOT,20.0 (wks),Mono/DC,5,0.6730158730158731
+StatOT,20.0 (wks),Mono/DC,5,0.48895833333333333
+GT-TC,20.0 (wks),Mono/DC,5,0.4
+gStatOT,22.0 (wks),Mono/DC,5,0.8711111111111112
+StatOT,22.0 (wks),Mono/DC,5,0.48219512195121955
+GT-TC,22.0 (wks),Mono/DC,5,0.675
+gStatOT,23.0 (wks),Mono/DC,5,0.7654945054945055
+StatOT,23.0 (wks),Mono/DC,5,0.0
+GT-TC,23.0 (wks),Mono/DC,5,0.8
+gStatOT,0.0 (yrs),Granulocyte,5,0.9111111111111111
+StatOT,0.0 (yrs),Granulocyte,5,0.6302564102564102
+GT-TC,0.0 (yrs),Granulocyte,5,1.0
+gStatOT,2.0 (yrs),Granulocyte,5,0.9111111111111111
+StatOT,2.0 (yrs),Granulocyte,5,0.18521870286576167
+GT-TC,2.0 (yrs),Granulocyte,5,1.0
+gStatOT,4.0 (yrs),Granulocyte,5,0.9111111111111111
+StatOT,4.0 (yrs),Granulocyte,5,0.0461682356861274
+GT-TC,4.0 (yrs),Granulocyte,5,1.0
+gStatOT,10.0 (yrs),Granulocyte,5,0.9111111111111111
+StatOT,10.0 (yrs),Granulocyte,5,0.7342424242424243
+GT-TC,10.0 (yrs),Granulocyte,5,0.9
+gStatOT,12.0 (yrs),Granulocyte,5,1.0
+StatOT,12.0 (yrs),Granulocyte,5,0.9266666666666667
+GT-TC,12.0 (yrs),Granulocyte,5,0.88
+gStatOT,17.0 (yrs),Granulocyte,5,0.9666666666666666
+StatOT,17.0 (yrs),Granulocyte,5,0.7611111111111111
+GT-TC,17.0 (yrs),Granulocyte,5,0.9
+gStatOT,25.0 (yrs),Granulocyte,5,0.925
+StatOT,25.0 (yrs),Granulocyte,5,0.8833333333333334
+GT-TC,25.0 (yrs),Granulocyte,5,0.8
+gStatOT,32.0 (yrs),Granulocyte,5,0.9428571428571428
+StatOT,32.0 (yrs),Granulocyte,5,0.8761904761904763
+GT-TC,32.0 (yrs),Granulocyte,5,0.8
+gStatOT,35.0 (yrs),Granulocyte,5,0.7892857142857143
+StatOT,35.0 (yrs),Granulocyte,5,0.8083333333333333
+GT-TC,35.0 (yrs),Granulocyte,5,0.76
+gStatOT,45.0 (yrs),Granulocyte,5,0.7295238095238095
+StatOT,45.0 (yrs),Granulocyte,5,0.0895813366960908
+GT-TC,45.0 (yrs),Granulocyte,5,0.755
+gStatOT,53.0 (yrs),Granulocyte,5,0.6683333333333333
+StatOT,53.0 (yrs),Granulocyte,5,0.5676190476190476
+GT-TC,53.0 (yrs),Granulocyte,5,0.755
+gStatOT,62.0 (yrs),Granulocyte,5,0.5597619047619047
+StatOT,62.0 (yrs),Granulocyte,5,0.9666666666666666
+GT-TC,62.0 (yrs),Granulocyte,5,0.8216666666666667
+gStatOT,76.0 (yrs),Granulocyte,5,0.06605346142989657
+StatOT,76.0 (yrs),Granulocyte,5,0.8909090909090909
+GT-TC,76.0 (yrs),Granulocyte,5,1.0
+gStatOT,77.0 (yrs),Granulocyte,5,0.06605346142989657
+StatOT,77.0 (yrs),Granulocyte,5,0.20136363636363636
+GT-TC,77.0 (yrs),Granulocyte,5,1.0
+gStatOT,10.0 (wks),Granulocyte,5,0.24294131794131793
+StatOT,10.0 (wks),Granulocyte,5,0.27951725171674024
+GT-TC,10.0 (wks),Granulocyte,5,1.0
+gStatOT,11.0 (wks),Granulocyte,5,0.24294131794131793
+StatOT,11.0 (wks),Granulocyte,5,0.32096919127086004
+GT-TC,11.0 (wks),Granulocyte,5,1.0
+gStatOT,13.0 (wks),Granulocyte,5,0.30537795537795537
+StatOT,13.0 (wks),Granulocyte,5,0.8833333333333334
+GT-TC,13.0 (wks),Granulocyte,5,1.0
+gStatOT,14.0 (wks),Granulocyte,5,0.30757575757575756
+StatOT,14.0 (wks),Granulocyte,5,0.20495261630475925
+GT-TC,14.0 (wks),Granulocyte,5,1.0
+gStatOT,15.0 (wks),Granulocyte,5,0.30537795537795537
+StatOT,15.0 (wks),Granulocyte,5,0.7026143790849673
+GT-TC,15.0 (wks),Granulocyte,5,0.9
+gStatOT,20.0 (wks),Granulocyte,5,0.4014408324050719
+StatOT,20.0 (wks),Granulocyte,5,0.1564998602180598
+GT-TC,20.0 (wks),Granulocyte,5,0.7
+gStatOT,22.0 (wks),Granulocyte,5,0.25791920155296405
+StatOT,22.0 (wks),Granulocyte,5,0.006089417091114884
+GT-TC,22.0 (wks),Granulocyte,5,0.7416666666666667
+gStatOT,23.0 (wks),Granulocyte,5,0.25791920155296405
+StatOT,23.0 (wks),Granulocyte,5,0.04142371027888399
+GT-TC,23.0 (wks),Granulocyte,5,1.0
+gStatOT,0.0 (yrs),Megakaryocyte,5,0.04926160337552742
+StatOT,0.0 (yrs),Megakaryocyte,5,0.0
+GT-TC,0.0 (yrs),Megakaryocyte,5,0.16666666666666666
+gStatOT,2.0 (yrs),Megakaryocyte,5,0.06944444444444445
+StatOT,2.0 (yrs),Megakaryocyte,5,0.0
+GT-TC,2.0 (yrs),Megakaryocyte,5,0.4
+gStatOT,4.0 (yrs),Megakaryocyte,5,0.06944444444444445
+StatOT,4.0 (yrs),Megakaryocyte,5,0.0
+GT-TC,4.0 (yrs),Megakaryocyte,5,0.3666666666666667
+gStatOT,10.0 (yrs),Megakaryocyte,5,0.09614605120223098
+StatOT,10.0 (yrs),Megakaryocyte,5,0.0
+GT-TC,10.0 (yrs),Megakaryocyte,5,0.6000000000000001
+gStatOT,12.0 (yrs),Megakaryocyte,5,0.05592491786922661
+StatOT,12.0 (yrs),Megakaryocyte,5,0.0
+GT-TC,12.0 (yrs),Megakaryocyte,5,0.4983333333333333
+gStatOT,17.0 (yrs),Megakaryocyte,5,0.15016042780748665
+StatOT,17.0 (yrs),Megakaryocyte,5,0.0
+GT-TC,17.0 (yrs),Megakaryocyte,5,0.7
+gStatOT,25.0 (yrs),Megakaryocyte,5,0.3236974789915966
+StatOT,25.0 (yrs),Megakaryocyte,5,0.0
+GT-TC,25.0 (yrs),Megakaryocyte,5,0.755
+gStatOT,32.0 (yrs),Megakaryocyte,5,0.032821422068479884
+StatOT,32.0 (yrs),Megakaryocyte,5,0.025
+GT-TC,32.0 (yrs),Megakaryocyte,5,0.8
+gStatOT,35.0 (yrs),Megakaryocyte,5,0.03330125412725931
+StatOT,35.0 (yrs),Megakaryocyte,5,0.00250261369223559
+GT-TC,35.0 (yrs),Megakaryocyte,5,0.9
+gStatOT,45.0 (yrs),Megakaryocyte,5,0.011492069290354099
+StatOT,45.0 (yrs),Megakaryocyte,5,0.001115087317492127
+GT-TC,45.0 (yrs),Megakaryocyte,5,0.9
+gStatOT,53.0 (yrs),Megakaryocyte,5,0.019953767614552455
+StatOT,53.0 (yrs),Megakaryocyte,5,0.0
+GT-TC,53.0 (yrs),Megakaryocyte,5,0.9
+gStatOT,62.0 (yrs),Megakaryocyte,5,0.011875026933850463
+StatOT,62.0 (yrs),Megakaryocyte,5,0.0
+GT-TC,62.0 (yrs),Megakaryocyte,5,1.0
+gStatOT,76.0 (yrs),Megakaryocyte,5,0.07018566594038292
+StatOT,76.0 (yrs),Megakaryocyte,5,0.0017755591445211179
+GT-TC,76.0 (yrs),Megakaryocyte,5,1.0
+gStatOT,77.0 (yrs),Megakaryocyte,5,0.07018566594038292
+StatOT,77.0 (yrs),Megakaryocyte,5,0.7327272727272727
+GT-TC,77.0 (yrs),Megakaryocyte,5,1.0
+gStatOT,10.0 (wks),Megakaryocyte,5,0.09523809523809523
+StatOT,10.0 (wks),Megakaryocyte,5,0.0
+GT-TC,10.0 (wks),Megakaryocyte,5,0.0
+gStatOT,11.0 (wks),Megakaryocyte,5,0.001224842426022156
+StatOT,11.0 (wks),Megakaryocyte,5,0.5
+GT-TC,11.0 (wks),Megakaryocyte,5,0.0
+gStatOT,13.0 (wks),Megakaryocyte,5,0.061740793878527024
+StatOT,13.0 (wks),Megakaryocyte,5,0.4819972084760817
+GT-TC,13.0 (wks),Megakaryocyte,5,0.4
+gStatOT,14.0 (wks),Megakaryocyte,5,0.06753789532780238
+StatOT,14.0 (wks),Megakaryocyte,5,0.0
+GT-TC,14.0 (wks),Megakaryocyte,5,0.755
+gStatOT,15.0 (wks),Megakaryocyte,5,0.08836681013868962
+StatOT,15.0 (wks),Megakaryocyte,5,0.0
+GT-TC,15.0 (wks),Megakaryocyte,5,0.7
+gStatOT,20.0 (wks),Megakaryocyte,5,0.06605263157894736
+StatOT,20.0 (wks),Megakaryocyte,5,0.0
+GT-TC,20.0 (wks),Megakaryocyte,5,0.51
+gStatOT,22.0 (wks),Megakaryocyte,5,0.03333333333333333
+StatOT,22.0 (wks),Megakaryocyte,5,0.0
+GT-TC,22.0 (wks),Megakaryocyte,5,0.6
+gStatOT,23.0 (wks),Megakaryocyte,5,0.047619047619047616
+StatOT,23.0 (wks),Megakaryocyte,5,0.11887041663077498
+GT-TC,23.0 (wks),Megakaryocyte,5,0.6
+gStatOT,0.0 (yrs),Baso/Mast,10,0.06299019418333963
+StatOT,0.0 (yrs),Baso/Mast,10,0.16244244882834563
+GT-TC,0.0 (yrs),Baso/Mast,10,0.6283333333333333
+gStatOT,2.0 (yrs),Baso/Mast,10,0.06972580339793077
+StatOT,2.0 (yrs),Baso/Mast,10,0.0
+GT-TC,2.0 (yrs),Baso/Mast,10,0.6082142857142857
+gStatOT,4.0 (yrs),Baso/Mast,10,0.06301962174116996
+StatOT,4.0 (yrs),Baso/Mast,10,0.00034129692832764505
+GT-TC,4.0 (yrs),Baso/Mast,10,0.6375
+gStatOT,10.0 (yrs),Baso/Mast,10,0.11103048017610391
+StatOT,10.0 (yrs),Baso/Mast,10,0.00034129692832764505
+GT-TC,10.0 (yrs),Baso/Mast,10,0.6682738095238094
+gStatOT,12.0 (yrs),Baso/Mast,10,0.11153930139703712
+StatOT,12.0 (yrs),Baso/Mast,10,0.01106281389620335
+GT-TC,12.0 (yrs),Baso/Mast,10,0.6345238095238095
+gStatOT,17.0 (yrs),Baso/Mast,10,0.07170539051203914
+StatOT,17.0 (yrs),Baso/Mast,10,0.13942584403433642
+GT-TC,17.0 (yrs),Baso/Mast,10,0.6645238095238095
+gStatOT,25.0 (yrs),Baso/Mast,10,0.12400861372779079
+StatOT,25.0 (yrs),Baso/Mast,10,0.15106014331531176
+GT-TC,25.0 (yrs),Baso/Mast,10,0.8394444444444444
+gStatOT,32.0 (yrs),Baso/Mast,10,0.1188044700465259
+StatOT,32.0 (yrs),Baso/Mast,10,0.00034129692832764505
+GT-TC,32.0 (yrs),Baso/Mast,10,0.845
+gStatOT,35.0 (yrs),Baso/Mast,10,0.11017742270282811
+StatOT,35.0 (yrs),Baso/Mast,10,0.02325843720125932
+GT-TC,35.0 (yrs),Baso/Mast,10,0.6663293650793651
+gStatOT,45.0 (yrs),Baso/Mast,10,0.13764667196940555
+StatOT,45.0 (yrs),Baso/Mast,10,0.6968950399882603
+GT-TC,45.0 (yrs),Baso/Mast,10,0.7634126984126984
+gStatOT,53.0 (yrs),Baso/Mast,10,0.008040335247578537
+StatOT,53.0 (yrs),Baso/Mast,10,0.00034129692832764505
+GT-TC,53.0 (yrs),Baso/Mast,10,0.6094444444444445
+gStatOT,62.0 (yrs),Baso/Mast,10,0.003740562800274537
+StatOT,62.0 (yrs),Baso/Mast,10,0.06327849588719153
+GT-TC,62.0 (yrs),Baso/Mast,10,0.32
+gStatOT,76.0 (yrs),Baso/Mast,10,0.04406582876714031
+StatOT,76.0 (yrs),Baso/Mast,10,0.00034129692832764505
+GT-TC,76.0 (yrs),Baso/Mast,10,0.44285714285714284
+gStatOT,77.0 (yrs),Baso/Mast,10,0.04863040425788848
+StatOT,77.0 (yrs),Baso/Mast,10,0.036826827536251515
+GT-TC,77.0 (yrs),Baso/Mast,10,0.5666666666666667
+gStatOT,10.0 (wks),Baso/Mast,10,0.04619233374317476
+StatOT,10.0 (wks),Baso/Mast,10,0.0014383011202349625
+GT-TC,10.0 (wks),Baso/Mast,10,0.89
+gStatOT,11.0 (wks),Baso/Mast,10,0.04617151085944766
+StatOT,11.0 (wks),Baso/Mast,10,0.001422170270796805
+GT-TC,11.0 (wks),Baso/Mast,10,0.8169444444444445
+gStatOT,13.0 (wks),Baso/Mast,10,0.02397646665970539
+StatOT,13.0 (wks),Baso/Mast,10,0.005489244937632296
+GT-TC,13.0 (wks),Baso/Mast,10,0.7226388888888888
+gStatOT,14.0 (wks),Baso/Mast,10,0.031730159176215425
+StatOT,14.0 (wks),Baso/Mast,10,0.37552417591509174
+GT-TC,14.0 (wks),Baso/Mast,10,0.6366071428571428
+gStatOT,15.0 (wks),Baso/Mast,10,0.022327044039544587
+StatOT,15.0 (wks),Baso/Mast,10,0.5898442151063552
+GT-TC,15.0 (wks),Baso/Mast,10,0.6671626984126984
+gStatOT,20.0 (wks),Baso/Mast,10,0.0
+StatOT,20.0 (wks),Baso/Mast,10,0.004418016510483506
+GT-TC,20.0 (wks),Baso/Mast,10,0.7711904761904762
+gStatOT,22.0 (wks),Baso/Mast,10,0.0
+StatOT,22.0 (wks),Baso/Mast,10,0.0
+GT-TC,22.0 (wks),Baso/Mast,10,0.7816071428571428
+gStatOT,23.0 (wks),Baso/Mast,10,0.0
+StatOT,23.0 (wks),Baso/Mast,10,0.0
+GT-TC,23.0 (wks),Baso/Mast,10,0.6634920634920635
+gStatOT,0.0 (yrs),Erythroid,10,0.17342023015118785
+StatOT,0.0 (yrs),Erythroid,10,0.18610438194416523
+GT-TC,0.0 (yrs),Erythroid,10,0.1875
+gStatOT,2.0 (yrs),Erythroid,10,0.6097880720180044
+StatOT,2.0 (yrs),Erythroid,10,0.5353512843780539
+GT-TC,2.0 (yrs),Erythroid,10,0.35291666666666666
+gStatOT,4.0 (yrs),Erythroid,10,0.4718036760485672
+StatOT,4.0 (yrs),Erythroid,10,0.0
+GT-TC,4.0 (yrs),Erythroid,10,0.4801785714285714
+gStatOT,10.0 (yrs),Erythroid,10,0.22768699013761057
+StatOT,10.0 (yrs),Erythroid,10,0.06698501035926493
+GT-TC,10.0 (yrs),Erythroid,10,0.6254166666666666
+gStatOT,12.0 (yrs),Erythroid,10,0.2153286033137065
+StatOT,12.0 (yrs),Erythroid,10,0.13214755744887058
+GT-TC,12.0 (yrs),Erythroid,10,0.722718253968254
+gStatOT,17.0 (yrs),Erythroid,10,0.056854454243722964
+StatOT,17.0 (yrs),Erythroid,10,0.02832791694665273
+GT-TC,17.0 (yrs),Erythroid,10,0.8041666666666667
+gStatOT,25.0 (yrs),Erythroid,10,0.350925407667704
+StatOT,25.0 (yrs),Erythroid,10,0.21489066955845765
+GT-TC,25.0 (yrs),Erythroid,10,0.9450000000000001
+gStatOT,32.0 (yrs),Erythroid,10,0.3654407795079437
+StatOT,32.0 (yrs),Erythroid,10,0.8534649122807018
+GT-TC,32.0 (yrs),Erythroid,10,0.9450000000000001
+gStatOT,35.0 (yrs),Erythroid,10,0.3654407795079437
+StatOT,35.0 (yrs),Erythroid,10,0.8069802372768475
+GT-TC,35.0 (yrs),Erythroid,10,0.95
+gStatOT,45.0 (yrs),Erythroid,10,0.9067857142857143
+StatOT,45.0 (yrs),Erythroid,10,0.03135445704185443
+GT-TC,45.0 (yrs),Erythroid,10,0.8500000000000001
+gStatOT,53.0 (yrs),Erythroid,10,0.8008099794941901
+StatOT,53.0 (yrs),Erythroid,10,0.7751748251748252
+GT-TC,53.0 (yrs),Erythroid,10,0.9
+gStatOT,62.0 (yrs),Erythroid,10,0.821257215007215
+StatOT,62.0 (yrs),Erythroid,10,0.7643506493506493
+GT-TC,62.0 (yrs),Erythroid,10,0.9331944444444444
+gStatOT,76.0 (yrs),Erythroid,10,0.8812626262626262
+StatOT,76.0 (yrs),Erythroid,10,0.9809090909090908
+GT-TC,76.0 (yrs),Erythroid,10,0.95
+gStatOT,77.0 (yrs),Erythroid,10,0.8812626262626262
+StatOT,77.0 (yrs),Erythroid,10,0.9433119658119657
+GT-TC,77.0 (yrs),Erythroid,10,1.0
+gStatOT,10.0 (wks),Erythroid,10,0.7431547619047618
+StatOT,10.0 (wks),Erythroid,10,0.2760368831362495
+GT-TC,10.0 (wks),Erythroid,10,0.8
+gStatOT,11.0 (wks),Erythroid,10,0.6665584415584416
+StatOT,11.0 (wks),Erythroid,10,0.554090519082096
+GT-TC,11.0 (wks),Erythroid,10,0.79
+gStatOT,13.0 (wks),Erythroid,10,0.6450199259409786
+StatOT,13.0 (wks),Erythroid,10,0.35491073562041303
+GT-TC,13.0 (wks),Erythroid,10,0.8500000000000001
+gStatOT,14.0 (wks),Erythroid,10,0.6679928989139515
+StatOT,14.0 (wks),Erythroid,10,0.7189282945020862
+GT-TC,14.0 (wks),Erythroid,10,0.895
+gStatOT,15.0 (wks),Erythroid,10,0.631869242999973
+StatOT,15.0 (wks),Erythroid,10,0.06912328421984268
+GT-TC,15.0 (wks),Erythroid,10,0.9
+gStatOT,20.0 (wks),Erythroid,10,0.7309081752560014
+StatOT,20.0 (wks),Erythroid,10,0.8573291904174256
+GT-TC,20.0 (wks),Erythroid,10,0.8444444444444446
+gStatOT,22.0 (wks),Erythroid,10,0.8487698412698412
+StatOT,22.0 (wks),Erythroid,10,0.7764666784828076
+GT-TC,22.0 (wks),Erythroid,10,0.8500000000000001
+gStatOT,23.0 (wks),Erythroid,10,0.8621031746031745
+StatOT,23.0 (wks),Erythroid,10,0.9909090909090909
+GT-TC,23.0 (wks),Erythroid,10,0.9
+gStatOT,0.0 (yrs),Lymphoid,10,0.9809090909090908
+StatOT,0.0 (yrs),Lymphoid,10,0.9353174603174603
+GT-TC,0.0 (yrs),Lymphoid,10,1.0
+gStatOT,2.0 (yrs),Lymphoid,10,0.9809090909090908
+StatOT,2.0 (yrs),Lymphoid,10,0.923109243697479
+GT-TC,2.0 (yrs),Lymphoid,10,1.0
+gStatOT,4.0 (yrs),Lymphoid,10,0.9809090909090908
+StatOT,4.0 (yrs),Lymphoid,10,0.9408119658119658
+GT-TC,4.0 (yrs),Lymphoid,10,1.0
+gStatOT,10.0 (yrs),Lymphoid,10,0.9809090909090908
+StatOT,10.0 (yrs),Lymphoid,10,0.8583573289455643
+GT-TC,10.0 (yrs),Lymphoid,10,1.0
+gStatOT,12.0 (yrs),Lymphoid,10,0.9809090909090908
+StatOT,12.0 (yrs),Lymphoid,10,0.9406417112299466
+GT-TC,12.0 (yrs),Lymphoid,10,1.0
+gStatOT,17.0 (yrs),Lymphoid,10,0.9809090909090908
+StatOT,17.0 (yrs),Lymphoid,10,0.9017045454545455
+GT-TC,17.0 (yrs),Lymphoid,10,0.9394444444444445
+gStatOT,25.0 (yrs),Lymphoid,10,1.0
+StatOT,25.0 (yrs),Lymphoid,10,0.9413888888888889
+GT-TC,25.0 (yrs),Lymphoid,10,0.9450000000000001
+gStatOT,32.0 (yrs),Lymphoid,10,0.9909090909090909
+StatOT,32.0 (yrs),Lymphoid,10,1.0
+GT-TC,32.0 (yrs),Lymphoid,10,0.95
+gStatOT,35.0 (yrs),Lymphoid,10,1.0
+StatOT,35.0 (yrs),Lymphoid,10,0.923109243697479
+GT-TC,35.0 (yrs),Lymphoid,10,0.8894444444444445
+gStatOT,45.0 (yrs),Lymphoid,10,1.0
+StatOT,45.0 (yrs),Lymphoid,10,0.8619580419580419
+GT-TC,45.0 (yrs),Lymphoid,10,0.95
+gStatOT,53.0 (yrs),Lymphoid,10,1.0
+StatOT,53.0 (yrs),Lymphoid,10,0.5461562998405103
+GT-TC,53.0 (yrs),Lymphoid,10,0.9450000000000001
+gStatOT,62.0 (yrs),Lymphoid,10,0.9532467532467532
+StatOT,62.0 (yrs),Lymphoid,10,0.45754318318773884
+GT-TC,62.0 (yrs),Lymphoid,10,0.895
+gStatOT,76.0 (yrs),Lymphoid,10,0.9909090909090909
+StatOT,76.0 (yrs),Lymphoid,10,0.7975000000000001
+GT-TC,76.0 (yrs),Lymphoid,10,0.95
+gStatOT,77.0 (yrs),Lymphoid,10,0.9909090909090909
+StatOT,77.0 (yrs),Lymphoid,10,0.3691279802912727
+GT-TC,77.0 (yrs),Lymphoid,10,1.0
+gStatOT,10.0 (wks),Lymphoid,10,0.8926587301587302
+StatOT,10.0 (wks),Lymphoid,10,0.858139768728004
+GT-TC,10.0 (wks),Lymphoid,10,1.0
+gStatOT,11.0 (wks),Lymphoid,10,0.8926587301587302
+StatOT,11.0 (wks),Lymphoid,10,0.9625
+GT-TC,11.0 (wks),Lymphoid,10,1.0
+gStatOT,13.0 (wks),Lymphoid,10,0.9180555555555555
+StatOT,13.0 (wks),Lymphoid,10,0.951923076923077
+GT-TC,13.0 (wks),Lymphoid,10,1.0
+gStatOT,14.0 (wks),Lymphoid,10,0.9180555555555555
+StatOT,14.0 (wks),Lymphoid,10,0.9290262515262515
+GT-TC,14.0 (wks),Lymphoid,10,0.9450000000000001
+gStatOT,15.0 (wks),Lymphoid,10,0.9497222222222221
+StatOT,15.0 (wks),Lymphoid,10,0.5738697705802969
+GT-TC,15.0 (wks),Lymphoid,10,0.8394444444444444
+gStatOT,20.0 (wks),Lymphoid,10,0.9373737373737374
+StatOT,20.0 (wks),Lymphoid,10,0.6053173014406461
+GT-TC,20.0 (wks),Lymphoid,10,0.8238888888888889
+gStatOT,22.0 (wks),Lymphoid,10,0.9833333333333334
+StatOT,22.0 (wks),Lymphoid,10,0.9183658008658009
+GT-TC,22.0 (wks),Lymphoid,10,0.857718253968254
+gStatOT,23.0 (wks),Lymphoid,10,0.8930555555555555
+StatOT,23.0 (wks),Lymphoid,10,0.25461982834966707
+GT-TC,23.0 (wks),Lymphoid,10,0.89
+gStatOT,0.0 (yrs),Mono/DC,10,0.642217365967366
+StatOT,0.0 (yrs),Mono/DC,10,0.40609119073795596
+GT-TC,0.0 (yrs),Mono/DC,10,0.5714285714285714
+gStatOT,2.0 (yrs),Mono/DC,10,0.8160056610056611
+StatOT,2.0 (yrs),Mono/DC,10,0.4329968468488919
+GT-TC,2.0 (yrs),Mono/DC,10,0.6509126984126984
+gStatOT,4.0 (yrs),Mono/DC,10,0.7993389943389944
+StatOT,4.0 (yrs),Mono/DC,10,0.0
+GT-TC,4.0 (yrs),Mono/DC,10,0.7944444444444445
+gStatOT,10.0 (yrs),Mono/DC,10,0.8024891774891774
+StatOT,10.0 (yrs),Mono/DC,10,0.0
+GT-TC,10.0 (yrs),Mono/DC,10,0.7134126984126985
+gStatOT,12.0 (yrs),Mono/DC,10,0.8353711484593838
+StatOT,12.0 (yrs),Mono/DC,10,0.37357183589413023
+GT-TC,12.0 (yrs),Mono/DC,10,0.7949999999999999
+gStatOT,17.0 (yrs),Mono/DC,10,0.8243484211866565
+StatOT,17.0 (yrs),Mono/DC,10,0.5874227234753551
+GT-TC,17.0 (yrs),Mono/DC,10,0.895
+gStatOT,25.0 (yrs),Mono/DC,10,0.9217391304347826
+StatOT,25.0 (yrs),Mono/DC,10,0.6164073635152066
+GT-TC,25.0 (yrs),Mono/DC,10,0.8400000000000001
+gStatOT,32.0 (yrs),Mono/DC,10,0.810937950937951
+StatOT,32.0 (yrs),Mono/DC,10,0.3334712136575627
+GT-TC,32.0 (yrs),Mono/DC,10,0.8294444444444444
+gStatOT,35.0 (yrs),Mono/DC,10,0.9198412698412698
+StatOT,35.0 (yrs),Mono/DC,10,0.0001053740779768177
+GT-TC,35.0 (yrs),Mono/DC,10,0.9
+gStatOT,45.0 (yrs),Mono/DC,10,0.8900641025641025
+StatOT,45.0 (yrs),Mono/DC,10,0.7365017825311944
+GT-TC,45.0 (yrs),Mono/DC,10,0.845
+gStatOT,53.0 (yrs),Mono/DC,10,0.8501098901098901
+StatOT,53.0 (yrs),Mono/DC,10,0.8773314203730272
+GT-TC,53.0 (yrs),Mono/DC,10,0.8500000000000001
+gStatOT,62.0 (yrs),Mono/DC,10,0.7545238095238095
+StatOT,62.0 (yrs),Mono/DC,10,0.6672170008354219
+GT-TC,62.0 (yrs),Mono/DC,10,0.845
+gStatOT,76.0 (yrs),Mono/DC,10,0.576285582316736
+StatOT,76.0 (yrs),Mono/DC,10,0.0
+GT-TC,76.0 (yrs),Mono/DC,10,0.7626388888888889
+gStatOT,77.0 (yrs),Mono/DC,10,0.5817683237233904
+StatOT,77.0 (yrs),Mono/DC,10,0.4146738789534372
+GT-TC,77.0 (yrs),Mono/DC,10,0.788888888888889
+gStatOT,10.0 (wks),Mono/DC,10,0.9206593406593406
+StatOT,10.0 (wks),Mono/DC,10,0.6698923625394213
+GT-TC,10.0 (wks),Mono/DC,10,0.89
+gStatOT,11.0 (wks),Mono/DC,10,0.9669230769230769
+StatOT,11.0 (wks),Mono/DC,10,0.8995337995337996
+GT-TC,11.0 (wks),Mono/DC,10,0.895
+gStatOT,13.0 (wks),Mono/DC,10,0.8772759103641457
+StatOT,13.0 (wks),Mono/DC,10,0.7444009216589862
+GT-TC,13.0 (wks),Mono/DC,10,0.895
+gStatOT,14.0 (wks),Mono/DC,10,0.9139285714285714
+StatOT,14.0 (wks),Mono/DC,10,0.7012554112554112
+GT-TC,14.0 (wks),Mono/DC,10,0.8160515873015873
+gStatOT,15.0 (wks),Mono/DC,10,0.8833365164247517
+StatOT,15.0 (wks),Mono/DC,10,0.7384928929765886
+GT-TC,15.0 (wks),Mono/DC,10,0.6673809523809524
+gStatOT,20.0 (wks),Mono/DC,10,0.5899334357398873
+StatOT,20.0 (wks),Mono/DC,10,0.2879382154483698
+GT-TC,20.0 (wks),Mono/DC,10,0.5416666666666666
+gStatOT,22.0 (wks),Mono/DC,10,0.7178789085310824
+StatOT,22.0 (wks),Mono/DC,10,0.2818917707268653
+GT-TC,22.0 (wks),Mono/DC,10,0.5756944444444445
+gStatOT,23.0 (wks),Mono/DC,10,0.6661373626373626
+StatOT,23.0 (wks),Mono/DC,10,0.0
+GT-TC,23.0 (wks),Mono/DC,10,0.788888888888889
+gStatOT,0.0 (yrs),Granulocyte,10,0.9146031746031745
+StatOT,0.0 (yrs),Granulocyte,10,0.7422402159244265
+GT-TC,0.0 (yrs),Granulocyte,10,0.8521031746031745
+gStatOT,2.0 (yrs),Granulocyte,10,1.0
+StatOT,2.0 (yrs),Granulocyte,10,0.1396720162010805
+GT-TC,2.0 (yrs),Granulocyte,10,0.9450000000000001
+gStatOT,4.0 (yrs),Granulocyte,10,1.0
+StatOT,4.0 (yrs),Granulocyte,10,0.05334106656666687
+GT-TC,4.0 (yrs),Granulocyte,10,0.95
+gStatOT,10.0 (yrs),Granulocyte,10,0.9413888888888889
+StatOT,10.0 (yrs),Granulocyte,10,0.8736142942025295
+GT-TC,10.0 (yrs),Granulocyte,10,0.895
+gStatOT,12.0 (yrs),Granulocyte,10,1.0
+StatOT,12.0 (yrs),Granulocyte,10,0.9669230769230769
+GT-TC,12.0 (yrs),Granulocyte,10,0.895
+gStatOT,17.0 (yrs),Granulocyte,10,0.9455555555555556
+StatOT,17.0 (yrs),Granulocyte,10,0.8968434343434343
+GT-TC,17.0 (yrs),Granulocyte,10,0.895
+gStatOT,25.0 (yrs),Granulocyte,10,1.0
+StatOT,25.0 (yrs),Granulocyte,10,0.8641791979949875
+GT-TC,25.0 (yrs),Granulocyte,10,0.9450000000000001
+gStatOT,32.0 (yrs),Granulocyte,10,1.0
+StatOT,32.0 (yrs),Granulocyte,10,0.9669230769230769
+GT-TC,32.0 (yrs),Granulocyte,10,1.0
+gStatOT,35.0 (yrs),Granulocyte,10,1.0
+StatOT,35.0 (yrs),Granulocyte,10,0.9909090909090909
+GT-TC,35.0 (yrs),Granulocyte,10,1.0
+gStatOT,45.0 (yrs),Granulocyte,10,0.9909090909090909
+StatOT,45.0 (yrs),Granulocyte,10,0.19020496662458666
+GT-TC,45.0 (yrs),Granulocyte,10,0.95
+gStatOT,53.0 (yrs),Granulocyte,10,0.9614285714285714
+StatOT,53.0 (yrs),Granulocyte,10,0.8402513227513226
+GT-TC,53.0 (yrs),Granulocyte,10,0.8394444444444444
+gStatOT,62.0 (yrs),Granulocyte,10,0.5288308015513897
+StatOT,62.0 (yrs),Granulocyte,10,0.7141592394533571
+GT-TC,62.0 (yrs),Granulocyte,10,0.7381944444444444
+gStatOT,76.0 (yrs),Granulocyte,10,0.11653317896550541
+StatOT,76.0 (yrs),Granulocyte,10,0.7658233922939806
+GT-TC,76.0 (yrs),Granulocyte,10,0.7778571428571428
+gStatOT,77.0 (yrs),Granulocyte,10,0.07399578819595058
+StatOT,77.0 (yrs),Granulocyte,10,0.24699881615892633
+GT-TC,77.0 (yrs),Granulocyte,10,0.8788888888888889
+gStatOT,10.0 (wks),Granulocyte,10,0.1759027437929427
+StatOT,10.0 (wks),Granulocyte,10,0.39312465790647527
+GT-TC,10.0 (wks),Granulocyte,10,0.8788888888888889
+gStatOT,11.0 (wks),Granulocyte,10,0.1850068919121387
+StatOT,11.0 (wks),Granulocyte,10,0.2727852755765439
+GT-TC,11.0 (wks),Granulocyte,10,0.9
+gStatOT,13.0 (wks),Granulocyte,10,0.22075637482962612
+StatOT,13.0 (wks),Granulocyte,10,0.8686986301369863
+GT-TC,13.0 (wks),Granulocyte,10,0.895
+gStatOT,14.0 (wks),Granulocyte,10,0.21617472716408886
+StatOT,14.0 (wks),Granulocyte,10,0.11823260165655221
+GT-TC,14.0 (wks),Granulocyte,10,0.9
+gStatOT,15.0 (wks),Granulocyte,10,0.21121987343832002
+StatOT,15.0 (wks),Granulocyte,10,0.37235925097188055
+GT-TC,15.0 (wks),Granulocyte,10,0.8331944444444445
+gStatOT,20.0 (wks),Granulocyte,10,0.3725130534779813
+StatOT,20.0 (wks),Granulocyte,10,0.10193406625965817
+GT-TC,20.0 (wks),Granulocyte,10,0.7826388888888889
+gStatOT,22.0 (wks),Granulocyte,10,0.20904563390362432
+StatOT,22.0 (wks),Granulocyte,10,0.0035852490860979825
+GT-TC,22.0 (wks),Granulocyte,10,0.8294444444444444
+gStatOT,23.0 (wks),Granulocyte,10,0.20994741824449498
+StatOT,23.0 (wks),Granulocyte,10,0.05385077080794017
+GT-TC,23.0 (wks),Granulocyte,10,0.89
+gStatOT,0.0 (yrs),Megakaryocyte,10,0.02463080168776371
+StatOT,0.0 (yrs),Megakaryocyte,10,0.0
+GT-TC,0.0 (yrs),Megakaryocyte,10,0.08333333333333333
+gStatOT,2.0 (yrs),Megakaryocyte,10,0.034722222222222224
+StatOT,2.0 (yrs),Megakaryocyte,10,0.0
+GT-TC,2.0 (yrs),Megakaryocyte,10,0.23
+gStatOT,4.0 (yrs),Megakaryocyte,10,0.052285513361462733
+StatOT,4.0 (yrs),Megakaryocyte,10,0.0
+GT-TC,4.0 (yrs),Megakaryocyte,10,0.29208333333333336
+gStatOT,10.0 (yrs),Megakaryocyte,10,0.05904264149276687
+StatOT,10.0 (yrs),Megakaryocyte,10,0.0
+GT-TC,10.0 (yrs),Megakaryocyte,10,0.3866666666666666
+gStatOT,12.0 (yrs),Megakaryocyte,10,0.058383804939400506
+StatOT,12.0 (yrs),Megakaryocyte,10,0.0
+GT-TC,12.0 (yrs),Megakaryocyte,10,0.3740476190476191
+gStatOT,17.0 (yrs),Megakaryocyte,10,0.08183353827248678
+StatOT,17.0 (yrs),Megakaryocyte,10,0.0
+GT-TC,17.0 (yrs),Megakaryocyte,10,0.4316666666666667
+gStatOT,25.0 (yrs),Megakaryocyte,10,0.4525280112044817
+StatOT,25.0 (yrs),Megakaryocyte,10,0.0
+GT-TC,25.0 (yrs),Megakaryocyte,10,0.3775
+gStatOT,32.0 (yrs),Megakaryocyte,10,0.022860524568831156
+StatOT,32.0 (yrs),Megakaryocyte,10,0.012794550810014727
+GT-TC,32.0 (yrs),Megakaryocyte,10,0.5900000000000001
+gStatOT,35.0 (yrs),Megakaryocyte,10,0.0276586497011349
+StatOT,35.0 (yrs),Megakaryocyte,10,0.0017000636676260867
+GT-TC,35.0 (yrs),Megakaryocyte,10,0.7381944444444445
+gStatOT,45.0 (yrs),Megakaryocyte,10,0.010455802965280925
+StatOT,45.0 (yrs),Megakaryocyte,10,0.0012386306925460762
+GT-TC,45.0 (yrs),Megakaryocyte,10,0.695218253968254
+gStatOT,53.0 (yrs),Megakaryocyte,10,0.018613868820012158
+StatOT,53.0 (yrs),Megakaryocyte,10,0.0
+GT-TC,53.0 (yrs),Megakaryocyte,10,0.768888888888889
+gStatOT,62.0 (yrs),Megakaryocyte,10,0.01558271674196561
+StatOT,62.0 (yrs),Megakaryocyte,10,0.0
+GT-TC,62.0 (yrs),Megakaryocyte,10,0.78375
+gStatOT,76.0 (yrs),Megakaryocyte,10,0.06293812674176405
+StatOT,76.0 (yrs),Megakaryocyte,10,0.0008877795722605589
+GT-TC,76.0 (yrs),Megakaryocyte,10,0.8500000000000001
+gStatOT,77.0 (yrs),Megakaryocyte,10,0.060356880574130446
+StatOT,77.0 (yrs),Megakaryocyte,10,0.3973835419084869
+GT-TC,77.0 (yrs),Megakaryocyte,10,0.9
+gStatOT,10.0 (wks),Megakaryocyte,10,0.08161145765021072
+StatOT,10.0 (wks),Megakaryocyte,10,0.0
+GT-TC,10.0 (wks),Megakaryocyte,10,0.014285714285714285
+gStatOT,11.0 (wks),Megakaryocyte,10,0.002467249526184749
+StatOT,11.0 (wks),Megakaryocyte,10,0.43873900293255136
+GT-TC,11.0 (wks),Megakaryocyte,10,0.00625
+gStatOT,13.0 (wks),Megakaryocyte,10,0.05343569864732646
+StatOT,13.0 (wks),Megakaryocyte,10,0.2842640279742287
+GT-TC,13.0 (wks),Megakaryocyte,10,0.2995833333333333
+gStatOT,14.0 (wks),Megakaryocyte,10,0.07559196386767175
+StatOT,14.0 (wks),Megakaryocyte,10,0.0
+GT-TC,14.0 (wks),Megakaryocyte,10,0.7734126984126984
+gStatOT,15.0 (wks),Megakaryocyte,10,0.07403554363420872
+StatOT,15.0 (wks),Megakaryocyte,10,0.0
+GT-TC,15.0 (wks),Megakaryocyte,10,0.7064087301587303
+gStatOT,20.0 (wks),Megakaryocyte,10,0.04821547445689322
+StatOT,20.0 (wks),Megakaryocyte,10,0.0
+GT-TC,20.0 (wks),Megakaryocyte,10,0.566765873015873
+gStatOT,22.0 (wks),Megakaryocyte,10,0.04121478879543396
+StatOT,22.0 (wks),Megakaryocyte,10,0.0
+GT-TC,22.0 (wks),Megakaryocyte,10,0.8331944444444446
+gStatOT,23.0 (wks),Megakaryocyte,10,0.11184460700589734
+StatOT,23.0 (wks),Megakaryocyte,10,0.15143078110846747
+GT-TC,23.0 (wks),Megakaryocyte,10,0.8354365079365079
+gStatOT,0.0 (yrs),Baso/Mast,25,0.04823874213574208
+StatOT,0.0 (yrs),Baso/Mast,25,0.12909868137759983
+GT-TC,0.0 (yrs),Baso/Mast,25,0.6205864804419792
+gStatOT,2.0 (yrs),Baso/Mast,25,0.058063286058316406
+StatOT,2.0 (yrs),Baso/Mast,25,0.00013651877133105802
+GT-TC,2.0 (yrs),Baso/Mast,25,0.581395812510727
+gStatOT,4.0 (yrs),Baso/Mast,25,0.048010967973131154
+StatOT,4.0 (yrs),Baso/Mast,25,0.00013651877133105802
+GT-TC,4.0 (yrs),Baso/Mast,25,0.5378488784850004
+gStatOT,10.0 (yrs),Baso/Mast,25,0.060448822597666256
+StatOT,10.0 (yrs),Baso/Mast,25,0.00013651877133105802
+GT-TC,10.0 (yrs),Baso/Mast,25,0.4952852976923915
+gStatOT,12.0 (yrs),Baso/Mast,25,0.05696802184872051
+StatOT,12.0 (yrs),Baso/Mast,25,0.01375878105212053
+GT-TC,12.0 (yrs),Baso/Mast,25,0.4891745206342393
+gStatOT,17.0 (yrs),Baso/Mast,25,0.03604066191309701
+StatOT,17.0 (yrs),Baso/Mast,25,0.10218050935491091
+GT-TC,17.0 (yrs),Baso/Mast,25,0.6352104734790494
+gStatOT,25.0 (yrs),Baso/Mast,25,0.06278191348419707
+StatOT,25.0 (yrs),Baso/Mast,25,0.0803541289354747
+GT-TC,25.0 (yrs),Baso/Mast,25,0.7037043480890566
+gStatOT,32.0 (yrs),Baso/Mast,25,0.05224734151121
+StatOT,32.0 (yrs),Baso/Mast,25,0.00013651877133105802
+GT-TC,32.0 (yrs),Baso/Mast,25,0.7188536294623251
+gStatOT,35.0 (yrs),Baso/Mast,25,0.0488369427364659
+StatOT,35.0 (yrs),Baso/Mast,25,0.022553789829101677
+GT-TC,35.0 (yrs),Baso/Mast,25,0.7005480861923855
+gStatOT,45.0 (yrs),Baso/Mast,25,0.08254307472036018
+StatOT,45.0 (yrs),Baso/Mast,25,0.3117175174094278
+GT-TC,45.0 (yrs),Baso/Mast,25,0.7425665168165168
+gStatOT,53.0 (yrs),Baso/Mast,25,0.0044523890563326115
+StatOT,53.0 (yrs),Baso/Mast,25,0.00013651877133105802
+GT-TC,53.0 (yrs),Baso/Mast,25,0.5318320009509941
+gStatOT,62.0 (yrs),Baso/Mast,25,0.0029165038287475853
+StatOT,62.0 (yrs),Baso/Mast,25,0.04885672472835695
+GT-TC,62.0 (yrs),Baso/Mast,25,0.30183333333333334
+gStatOT,76.0 (yrs),Baso/Mast,25,0.027575268723432477
+StatOT,76.0 (yrs),Baso/Mast,25,0.00013651877133105802
+GT-TC,76.0 (yrs),Baso/Mast,25,0.3371106815381415
+gStatOT,77.0 (yrs),Baso/Mast,25,0.026249100332301652
+StatOT,77.0 (yrs),Baso/Mast,25,0.03925530502459869
+GT-TC,77.0 (yrs),Baso/Mast,25,0.549032745032745
+gStatOT,10.0 (wks),Baso/Mast,25,0.039530213713998744
+StatOT,10.0 (wks),Baso/Mast,25,0.00522909257237195
+GT-TC,10.0 (wks),Baso/Mast,25,0.8729437229437229
+gStatOT,11.0 (wks),Baso/Mast,25,0.04678537549146629
+StatOT,11.0 (wks),Baso/Mast,25,0.0019938370191589796
+GT-TC,11.0 (wks),Baso/Mast,25,0.7921590290252963
+gStatOT,13.0 (wks),Baso/Mast,25,0.025121867655766957
+StatOT,13.0 (wks),Baso/Mast,25,0.005975196394952514
+GT-TC,13.0 (wks),Baso/Mast,25,0.740318864228307
+gStatOT,14.0 (wks),Baso/Mast,25,0.03844351937764294
+StatOT,14.0 (wks),Baso/Mast,25,0.20202395511841217
+GT-TC,14.0 (wks),Baso/Mast,25,0.7250391395408557
+gStatOT,15.0 (wks),Baso/Mast,25,0.035209058348019504
+StatOT,15.0 (wks),Baso/Mast,25,0.4698453004139545
+GT-TC,15.0 (wks),Baso/Mast,25,0.8112206849812517
+gStatOT,20.0 (wks),Baso/Mast,25,0.0006768935220498912
+StatOT,20.0 (wks),Baso/Mast,25,0.01025220064682596
+GT-TC,20.0 (wks),Baso/Mast,25,0.715294127612266
+gStatOT,22.0 (wks),Baso/Mast,25,4.5924225028702645e-05
+StatOT,22.0 (wks),Baso/Mast,25,0.0
+GT-TC,22.0 (wks),Baso/Mast,25,0.7530400547165252
+gStatOT,23.0 (wks),Baso/Mast,25,4.5924225028702645e-05
+StatOT,23.0 (wks),Baso/Mast,25,0.00013651877133105802
+GT-TC,23.0 (wks),Baso/Mast,25,0.7927826086956522
+gStatOT,0.0 (yrs),Erythroid,25,0.33819238048198386
+StatOT,0.0 (yrs),Erythroid,25,0.23887531995873806
+GT-TC,0.0 (yrs),Erythroid,25,0.3431886806004453
+gStatOT,2.0 (yrs),Erythroid,25,0.7575966221122389
+StatOT,2.0 (yrs),Erythroid,25,0.6404739730498009
+GT-TC,2.0 (yrs),Erythroid,25,0.3663404914576607
+gStatOT,4.0 (yrs),Erythroid,25,0.4732339471024602
+StatOT,4.0 (yrs),Erythroid,25,0.0
+GT-TC,4.0 (yrs),Erythroid,25,0.7018183927183927
+gStatOT,10.0 (yrs),Erythroid,25,0.415512952390648
+StatOT,10.0 (yrs),Erythroid,25,0.3438177975420579
+GT-TC,10.0 (yrs),Erythroid,25,0.8999999999999999
+gStatOT,12.0 (yrs),Erythroid,25,0.41619566275077774
+StatOT,12.0 (yrs),Erythroid,25,0.23445443834480537
+GT-TC,12.0 (yrs),Erythroid,25,0.8077724978570584
+gStatOT,17.0 (yrs),Erythroid,25,0.2246572652657553
+StatOT,17.0 (yrs),Erythroid,25,0.13785889562842388
+GT-TC,17.0 (yrs),Erythroid,25,0.794844295191206
+gStatOT,25.0 (yrs),Erythroid,25,0.4713368980028795
+StatOT,25.0 (yrs),Erythroid,25,0.1693556773285268
+GT-TC,25.0 (yrs),Erythroid,25,0.8728163313421895
+gStatOT,32.0 (yrs),Erythroid,25,0.38672870422314626
+StatOT,32.0 (yrs),Erythroid,25,0.7923885610653173
+GT-TC,32.0 (yrs),Erythroid,25,0.8247881511109403
+gStatOT,35.0 (yrs),Erythroid,25,0.6225335000464187
+StatOT,35.0 (yrs),Erythroid,25,0.6601147689601821
+GT-TC,35.0 (yrs),Erythroid,25,0.7553133013693655
+gStatOT,45.0 (yrs),Erythroid,25,0.8639257184764125
+StatOT,45.0 (yrs),Erythroid,25,0.025623396098266502
+GT-TC,45.0 (yrs),Erythroid,25,0.8259237552728602
+gStatOT,53.0 (yrs),Erythroid,25,0.8997526986060458
+StatOT,53.0 (yrs),Erythroid,25,0.7713957108920723
+GT-TC,53.0 (yrs),Erythroid,25,0.8749942028985507
+gStatOT,62.0 (yrs),Erythroid,25,0.8444570965090228
+StatOT,62.0 (yrs),Erythroid,25,0.7324439942871619
+GT-TC,62.0 (yrs),Erythroid,25,0.840534255007044
+gStatOT,76.0 (yrs),Erythroid,25,0.9392414628209664
+StatOT,76.0 (yrs),Erythroid,25,0.8763381767394588
+GT-TC,76.0 (yrs),Erythroid,25,0.8879745529832486
+gStatOT,77.0 (yrs),Erythroid,25,0.9302843321885571
+StatOT,77.0 (yrs),Erythroid,25,0.8482835522447129
+GT-TC,77.0 (yrs),Erythroid,25,0.910871259175607
+gStatOT,10.0 (wks),Erythroid,25,0.6861876260121327
+StatOT,10.0 (wks),Erythroid,25,0.20061873386246754
+GT-TC,10.0 (wks),Erythroid,25,0.5764288378288378
+gStatOT,11.0 (wks),Erythroid,25,0.4752599247773662
+StatOT,11.0 (wks),Erythroid,25,0.28764017183142887
+GT-TC,11.0 (wks),Erythroid,25,0.5448086067250827
+gStatOT,13.0 (wks),Erythroid,25,0.508506324283578
+StatOT,13.0 (wks),Erythroid,25,0.3829297257162657
+GT-TC,13.0 (wks),Erythroid,25,0.6307998966118161
+gStatOT,14.0 (wks),Erythroid,25,0.4761518677449268
+StatOT,14.0 (wks),Erythroid,25,0.4994520455637663
+GT-TC,14.0 (wks),Erythroid,25,0.7140008737258166
+gStatOT,15.0 (wks),Erythroid,25,0.3569779761427526
+StatOT,15.0 (wks),Erythroid,25,0.14275546632724728
+GT-TC,15.0 (wks),Erythroid,25,0.5414081136255049
+gStatOT,20.0 (wks),Erythroid,25,0.4970555467432547
+StatOT,20.0 (wks),Erythroid,25,0.8448570345677763
+GT-TC,20.0 (wks),Erythroid,25,0.691259025032938
+gStatOT,22.0 (wks),Erythroid,25,0.712289839173491
+StatOT,22.0 (wks),Erythroid,25,0.7214305977418636
+GT-TC,22.0 (wks),Erythroid,25,0.8991304347826087
+gStatOT,23.0 (wks),Erythroid,25,0.6754939523060947
+StatOT,23.0 (wks),Erythroid,25,0.7549618249005917
+GT-TC,23.0 (wks),Erythroid,25,0.8660853754940712
+gStatOT,0.0 (yrs),Lymphoid,25,0.9762064988151944
+StatOT,0.0 (yrs),Lymphoid,25,0.9250057228920974
+GT-TC,0.0 (yrs),Lymphoid,25,0.9549942028985506
+gStatOT,2.0 (yrs),Lymphoid,25,0.9855086218129696
+StatOT,2.0 (yrs),Lymphoid,25,0.9351407867494824
+GT-TC,2.0 (yrs),Lymphoid,25,0.9575666666666667
+gStatOT,4.0 (yrs),Lymphoid,25,0.9677938004024961
+StatOT,4.0 (yrs),Lymphoid,25,0.9419612440191387
+GT-TC,4.0 (yrs),Lymphoid,25,0.9350275362318841
+gStatOT,10.0 (yrs),Lymphoid,25,0.9922934472934473
+StatOT,10.0 (yrs),Lymphoid,25,0.9353625753337828
+GT-TC,10.0 (yrs),Lymphoid,25,0.9384
+gStatOT,12.0 (yrs),Lymphoid,25,0.9984615384615384
+StatOT,12.0 (yrs),Lymphoid,25,0.9036775865982969
+GT-TC,12.0 (yrs),Lymphoid,25,0.9592
+gStatOT,17.0 (yrs),Lymphoid,25,0.9813127413127413
+StatOT,17.0 (yrs),Lymphoid,25,0.8542068557869886
+GT-TC,17.0 (yrs),Lymphoid,25,0.9583666666666666
+gStatOT,25.0 (yrs),Lymphoid,25,0.9617850216356223
+StatOT,25.0 (yrs),Lymphoid,25,0.9100002528318383
+GT-TC,25.0 (yrs),Lymphoid,25,0.913059872012046
+gStatOT,32.0 (yrs),Lymphoid,25,0.9005100304030192
+StatOT,32.0 (yrs),Lymphoid,25,0.8774803476316887
+GT-TC,32.0 (yrs),Lymphoid,25,0.893176021080369
+gStatOT,35.0 (yrs),Lymphoid,25,0.9345802131591605
+StatOT,35.0 (yrs),Lymphoid,25,0.8515586180374091
+GT-TC,35.0 (yrs),Lymphoid,25,0.8763051948051948
+gStatOT,45.0 (yrs),Lymphoid,25,0.9432490336907964
+StatOT,45.0 (yrs),Lymphoid,25,0.8559740465872311
+GT-TC,45.0 (yrs),Lymphoid,25,0.8528712591756069
+gStatOT,53.0 (yrs),Lymphoid,25,0.8884146904375786
+StatOT,53.0 (yrs),Lymphoid,25,0.41293901590582677
+GT-TC,53.0 (yrs),Lymphoid,25,0.812308118781803
+gStatOT,62.0 (yrs),Lymphoid,25,0.8824949627318786
+StatOT,62.0 (yrs),Lymphoid,25,0.5324702890292642
+GT-TC,62.0 (yrs),Lymphoid,25,0.7592137637941245
+gStatOT,76.0 (yrs),Lymphoid,25,0.847331616723568
+StatOT,76.0 (yrs),Lymphoid,25,0.5929467390724714
+GT-TC,76.0 (yrs),Lymphoid,25,0.7663737628676046
+gStatOT,77.0 (yrs),Lymphoid,25,0.8438510290468331
+StatOT,77.0 (yrs),Lymphoid,25,0.17758569231874397
+GT-TC,77.0 (yrs),Lymphoid,25,0.7851963241436926
+gStatOT,10.0 (wks),Lymphoid,25,0.8084155393084235
+StatOT,10.0 (wks),Lymphoid,25,0.5658546802077598
+GT-TC,10.0 (wks),Lymphoid,25,0.88
+gStatOT,11.0 (wks),Lymphoid,25,0.8319719169969492
+StatOT,11.0 (wks),Lymphoid,25,0.7183319949448758
+GT-TC,11.0 (wks),Lymphoid,25,0.8950909090909092
+gStatOT,13.0 (wks),Lymphoid,25,0.8307772985111079
+StatOT,13.0 (wks),Lymphoid,25,0.7539358733917674
+GT-TC,13.0 (wks),Lymphoid,25,0.8958608695652175
+gStatOT,14.0 (wks),Lymphoid,25,0.806442132476663
+StatOT,14.0 (wks),Lymphoid,25,0.7790690915306066
+GT-TC,14.0 (wks),Lymphoid,25,0.8764426877470356
+gStatOT,15.0 (wks),Lymphoid,25,0.7990138455629626
+StatOT,15.0 (wks),Lymphoid,25,0.6237869817635717
+GT-TC,15.0 (wks),Lymphoid,25,0.7748954616112712
+gStatOT,20.0 (wks),Lymphoid,25,0.7751350528078214
+StatOT,20.0 (wks),Lymphoid,25,0.48817505262275396
+GT-TC,20.0 (wks),Lymphoid,25,0.7691980353406185
+gStatOT,22.0 (wks),Lymphoid,25,0.818700524941255
+StatOT,22.0 (wks),Lymphoid,25,0.5568312265335382
+GT-TC,22.0 (wks),Lymphoid,25,0.7820285449104671
+gStatOT,23.0 (wks),Lymphoid,25,0.7168778881745704
+StatOT,23.0 (wks),Lymphoid,25,0.3308456938036323
+GT-TC,23.0 (wks),Lymphoid,25,0.7917677527151211
+gStatOT,0.0 (yrs),Mono/DC,25,0.844767708160689
+StatOT,0.0 (yrs),Mono/DC,25,0.4382317540545696
+GT-TC,0.0 (yrs),Mono/DC,25,0.6851170935359789
+gStatOT,2.0 (yrs),Mono/DC,25,0.8732789063737397
+StatOT,2.0 (yrs),Mono/DC,25,0.5447172603094165
+GT-TC,2.0 (yrs),Mono/DC,25,0.7594336584849171
+gStatOT,4.0 (yrs),Mono/DC,25,0.8992656212129896
+StatOT,4.0 (yrs),Mono/DC,25,0.0
+GT-TC,4.0 (yrs),Mono/DC,25,0.8690561076604555
+gStatOT,10.0 (yrs),Mono/DC,25,0.8738149298214722
+StatOT,10.0 (yrs),Mono/DC,25,0.0
+GT-TC,10.0 (yrs),Mono/DC,25,0.884855737829422
+gStatOT,12.0 (yrs),Mono/DC,25,0.8612471162478188
+StatOT,12.0 (yrs),Mono/DC,25,0.33692681821206377
+GT-TC,12.0 (yrs),Mono/DC,25,0.8037099433074665
+gStatOT,17.0 (yrs),Mono/DC,25,0.7335803907102665
+StatOT,17.0 (yrs),Mono/DC,25,0.6011360504079591
+GT-TC,17.0 (yrs),Mono/DC,25,0.7504008720075486
+gStatOT,25.0 (yrs),Mono/DC,25,0.7488450664122803
+StatOT,25.0 (yrs),Mono/DC,25,0.43417231471217255
+GT-TC,25.0 (yrs),Mono/DC,25,0.8466855448898927
+gStatOT,32.0 (yrs),Mono/DC,25,0.7939484139259934
+StatOT,32.0 (yrs),Mono/DC,25,0.4000064114503447
+GT-TC,32.0 (yrs),Mono/DC,25,0.8627312965238796
+gStatOT,35.0 (yrs),Mono/DC,25,0.8376829978533129
+StatOT,35.0 (yrs),Mono/DC,25,0.00015472179759272177
+GT-TC,35.0 (yrs),Mono/DC,25,0.8310355364696327
+gStatOT,45.0 (yrs),Mono/DC,25,0.8295748424506448
+StatOT,45.0 (yrs),Mono/DC,25,0.6559711734888996
+GT-TC,45.0 (yrs),Mono/DC,25,0.838826017020774
+gStatOT,53.0 (yrs),Mono/DC,25,0.8401900892911928
+StatOT,53.0 (yrs),Mono/DC,25,0.5055286107638093
+GT-TC,53.0 (yrs),Mono/DC,25,0.8310768358352286
+gStatOT,62.0 (yrs),Mono/DC,25,0.8656256092575196
+StatOT,62.0 (yrs),Mono/DC,25,0.47325619531437924
+GT-TC,62.0 (yrs),Mono/DC,25,0.8090515438458432
+gStatOT,76.0 (yrs),Mono/DC,25,0.5917855135551886
+StatOT,76.0 (yrs),Mono/DC,25,0.0
+GT-TC,76.0 (yrs),Mono/DC,25,0.7821242407784406
+gStatOT,77.0 (yrs),Mono/DC,25,0.6279748470618554
+StatOT,77.0 (yrs),Mono/DC,25,0.39270579717530635
+GT-TC,77.0 (yrs),Mono/DC,25,0.7825454545454545
+gStatOT,10.0 (wks),Mono/DC,25,0.9736526145466097
+StatOT,10.0 (wks),Mono/DC,25,0.902585674974113
+GT-TC,10.0 (wks),Mono/DC,25,0.8365217391304348
+gStatOT,11.0 (wks),Mono/DC,25,0.9833211233211233
+StatOT,11.0 (wks),Mono/DC,25,0.9425480833465609
+GT-TC,11.0 (wks),Mono/DC,25,0.8716718614718615
+gStatOT,13.0 (wks),Mono/DC,25,0.9894373626373627
+StatOT,13.0 (wks),Mono/DC,25,0.7370275575961164
+GT-TC,13.0 (wks),Mono/DC,25,0.8845425177587851
+gStatOT,14.0 (wks),Mono/DC,25,0.9860458623502102
+StatOT,14.0 (wks),Mono/DC,25,0.907973685997525
+GT-TC,14.0 (wks),Mono/DC,25,0.8903167601830275
+gStatOT,15.0 (wks),Mono/DC,25,0.9753459638400815
+StatOT,15.0 (wks),Mono/DC,25,0.8854596869000767
+GT-TC,15.0 (wks),Mono/DC,25,0.6962554341083753
+gStatOT,20.0 (wks),Mono/DC,25,0.433320057437635
+StatOT,20.0 (wks),Mono/DC,25,0.2965130207766131
+GT-TC,20.0 (wks),Mono/DC,25,0.435233490720703
+gStatOT,22.0 (wks),Mono/DC,25,0.7106777373874632
+StatOT,22.0 (wks),Mono/DC,25,0.23832864661220682
+GT-TC,22.0 (wks),Mono/DC,25,0.5389889726641645
+gStatOT,23.0 (wks),Mono/DC,25,0.6241887154726345
+StatOT,23.0 (wks),Mono/DC,25,0.0
+GT-TC,23.0 (wks),Mono/DC,25,0.7234425553358115
+gStatOT,0.0 (yrs),Granulocyte,25,0.9291404584482388
+StatOT,0.0 (yrs),Granulocyte,25,0.7534420631890952
+GT-TC,0.0 (yrs),Granulocyte,25,0.8405201483235808
+gStatOT,2.0 (yrs),Granulocyte,25,0.99125
+StatOT,2.0 (yrs),Granulocyte,25,0.09261427861047732
+GT-TC,2.0 (yrs),Granulocyte,25,0.8956385281385282
+gStatOT,4.0 (yrs),Granulocyte,25,0.9725270731290954
+StatOT,4.0 (yrs),Granulocyte,25,0.08016698456567392
+GT-TC,4.0 (yrs),Granulocyte,25,0.8841208385607902
+gStatOT,10.0 (yrs),Granulocyte,25,0.913711634974457
+StatOT,10.0 (yrs),Granulocyte,25,0.8083039307300152
+GT-TC,10.0 (yrs),Granulocyte,25,0.9006537226484796
+gStatOT,12.0 (yrs),Granulocyte,25,0.9501495708969394
+StatOT,12.0 (yrs),Granulocyte,25,0.871572981287091
+GT-TC,12.0 (yrs),Granulocyte,25,0.9583666666666666
+gStatOT,17.0 (yrs),Granulocyte,25,0.9560236272753435
+StatOT,17.0 (yrs),Granulocyte,25,0.863269490397296
+GT-TC,17.0 (yrs),Granulocyte,25,0.929701608667876
+gStatOT,25.0 (yrs),Granulocyte,25,0.9587586975742898
+StatOT,25.0 (yrs),Granulocyte,25,0.8793328815782796
+GT-TC,25.0 (yrs),Granulocyte,25,0.903121688016445
+gStatOT,32.0 (yrs),Granulocyte,25,0.9579215007215006
+StatOT,32.0 (yrs),Granulocyte,25,0.9233532962205889
+GT-TC,32.0 (yrs),Granulocyte,25,0.9123389233954451
+gStatOT,35.0 (yrs),Granulocyte,25,0.9465020421607377
+StatOT,35.0 (yrs),Granulocyte,25,0.9113615073595704
+GT-TC,35.0 (yrs),Granulocyte,25,0.9167333333333334
+gStatOT,45.0 (yrs),Granulocyte,25,0.9034418419831057
+StatOT,45.0 (yrs),Granulocyte,25,0.21807710741972783
+GT-TC,45.0 (yrs),Granulocyte,25,0.9069836774762605
+gStatOT,53.0 (yrs),Granulocyte,25,0.8879675014856212
+StatOT,53.0 (yrs),Granulocyte,25,0.7614487409867496
+GT-TC,53.0 (yrs),Granulocyte,25,0.9591666666666667
+gStatOT,62.0 (yrs),Granulocyte,25,0.42063461088493653
+StatOT,62.0 (yrs),Granulocyte,25,0.6036711266629289
+GT-TC,62.0 (yrs),Granulocyte,25,0.767852597694703
+gStatOT,76.0 (yrs),Granulocyte,25,0.491555970162271
+StatOT,76.0 (yrs),Granulocyte,25,0.7430988665297471
+GT-TC,76.0 (yrs),Granulocyte,25,0.6259169037353517
+gStatOT,77.0 (yrs),Granulocyte,25,0.18853814049979895
+StatOT,77.0 (yrs),Granulocyte,25,0.3278358835382381
+GT-TC,77.0 (yrs),Granulocyte,25,0.761846736406233
+gStatOT,10.0 (wks),Granulocyte,25,0.22045635099607966
+StatOT,10.0 (wks),Granulocyte,25,0.33646410073425514
+GT-TC,10.0 (wks),Granulocyte,25,0.6939724802201583
+gStatOT,11.0 (wks),Granulocyte,25,0.3487299031326942
+StatOT,11.0 (wks),Granulocyte,25,0.5861572914694252
+GT-TC,11.0 (wks),Granulocyte,25,0.7178337994247269
+gStatOT,13.0 (wks),Granulocyte,25,0.24590027155280217
+StatOT,13.0 (wks),Granulocyte,25,0.6766165563418489
+GT-TC,13.0 (wks),Granulocyte,25,0.8021715851571889
+gStatOT,14.0 (wks),Granulocyte,25,0.1788042832342304
+StatOT,14.0 (wks),Granulocyte,25,0.1759457571944767
+GT-TC,14.0 (wks),Granulocyte,25,0.845226152570452
+gStatOT,15.0 (wks),Granulocyte,25,0.16715783482773755
+StatOT,15.0 (wks),Granulocyte,25,0.158923884366616
+GT-TC,15.0 (wks),Granulocyte,25,0.7921424485760871
+gStatOT,20.0 (wks),Granulocyte,25,0.29945894619608376
+StatOT,20.0 (wks),Granulocyte,25,0.13278411329773238
+GT-TC,20.0 (wks),Granulocyte,25,0.728268516089286
+gStatOT,22.0 (wks),Granulocyte,25,0.18005395440992658
+StatOT,22.0 (wks),Granulocyte,25,0.0018883373116068065
+GT-TC,22.0 (wks),Granulocyte,25,0.7926846860868599
+gStatOT,23.0 (wks),Granulocyte,25,0.20372141580516295
+StatOT,23.0 (wks),Granulocyte,25,0.07430972288154183
+GT-TC,23.0 (wks),Granulocyte,25,0.910871259175607
+gStatOT,0.0 (yrs),Megakaryocyte,25,0.017578078805156664
+StatOT,0.0 (yrs),Megakaryocyte,25,0.0
+GT-TC,0.0 (yrs),Megakaryocyte,25,0.049523809523809526
+gStatOT,2.0 (yrs),Megakaryocyte,25,0.019514840517272664
+StatOT,2.0 (yrs),Megakaryocyte,25,9.569377990430622e-05
+GT-TC,2.0 (yrs),Megakaryocyte,25,0.1482983682983683
+gStatOT,4.0 (yrs),Megakaryocyte,25,0.03519780831396617
+StatOT,4.0 (yrs),Megakaryocyte,25,0.0
+GT-TC,4.0 (yrs),Megakaryocyte,25,0.15443073593073592
+gStatOT,10.0 (yrs),Megakaryocyte,25,0.07176830915432843
+StatOT,10.0 (yrs),Megakaryocyte,25,0.0004938271604938272
+GT-TC,10.0 (yrs),Megakaryocyte,25,0.25276190476190474
+gStatOT,12.0 (yrs),Megakaryocyte,25,0.05552357385354828
+StatOT,12.0 (yrs),Megakaryocyte,25,0.0
+GT-TC,12.0 (yrs),Megakaryocyte,25,0.23294830169830172
+gStatOT,17.0 (yrs),Megakaryocyte,25,0.10394598480117048
+StatOT,17.0 (yrs),Megakaryocyte,25,0.0
+GT-TC,17.0 (yrs),Megakaryocyte,25,0.2851789321789322
+gStatOT,25.0 (yrs),Megakaryocyte,25,0.3208410593506722
+StatOT,25.0 (yrs),Megakaryocyte,25,0.0003361344537815126
+GT-TC,25.0 (yrs),Megakaryocyte,25,0.33596443001443
+gStatOT,32.0 (yrs),Megakaryocyte,25,0.025769870202833958
+StatOT,32.0 (yrs),Megakaryocyte,25,0.005719659098248611
+GT-TC,32.0 (yrs),Megakaryocyte,25,0.49667469810890863
+gStatOT,35.0 (yrs),Megakaryocyte,25,0.025809204370347064
+StatOT,35.0 (yrs),Megakaryocyte,25,0.0026294626327335088
+GT-TC,35.0 (yrs),Megakaryocyte,25,0.594844603109309
+gStatOT,45.0 (yrs),Megakaryocyte,25,0.020723449992640548
+StatOT,45.0 (yrs),Megakaryocyte,25,0.0012812157070985252
+GT-TC,45.0 (yrs),Megakaryocyte,25,0.6504862951282726
+gStatOT,53.0 (yrs),Megakaryocyte,25,0.019336485177731545
+StatOT,53.0 (yrs),Megakaryocyte,25,0.0004938271604938272
+GT-TC,53.0 (yrs),Megakaryocyte,25,0.7567281690430836
+gStatOT,62.0 (yrs),Megakaryocyte,25,0.014157289667571819
+StatOT,62.0 (yrs),Megakaryocyte,25,0.0004938271604938272
+GT-TC,62.0 (yrs),Megakaryocyte,25,0.7818694049702262
+gStatOT,76.0 (yrs),Megakaryocyte,25,0.039058863269849295
+StatOT,76.0 (yrs),Megakaryocyte,25,0.00035511182890422355
+GT-TC,76.0 (yrs),Megakaryocyte,25,0.8095812158855638
+gStatOT,77.0 (yrs),Megakaryocyte,25,0.060726052146059556
+StatOT,77.0 (yrs),Megakaryocyte,25,0.2258054966103442
+GT-TC,77.0 (yrs),Megakaryocyte,25,0.8055672101279316
+gStatOT,10.0 (wks),Megakaryocyte,25,0.044310890233543045
+StatOT,10.0 (wks),Megakaryocyte,25,0.0
+GT-TC,10.0 (wks),Megakaryocyte,25,0.015637559371574718
+gStatOT,11.0 (wks),Megakaryocyte,25,0.0013629147000161542
+StatOT,11.0 (wks),Megakaryocyte,25,0.5927754258151148
+GT-TC,11.0 (wks),Megakaryocyte,25,0.034870795870795876
+gStatOT,13.0 (wks),Megakaryocyte,25,0.04142920745271468
+StatOT,13.0 (wks),Megakaryocyte,25,0.3159227417105393
+GT-TC,13.0 (wks),Megakaryocyte,25,0.4188952330741602
+gStatOT,14.0 (wks),Megakaryocyte,25,0.03909141055099623
+StatOT,14.0 (wks),Megakaryocyte,25,0.0
+GT-TC,14.0 (wks),Megakaryocyte,25,0.784694547634654
+gStatOT,15.0 (wks),Megakaryocyte,25,0.043728677937396335
+StatOT,15.0 (wks),Megakaryocyte,25,0.0
+GT-TC,15.0 (wks),Megakaryocyte,25,0.6792468171125325
+gStatOT,20.0 (wks),Megakaryocyte,25,0.031277677705678
+StatOT,20.0 (wks),Megakaryocyte,25,0.0
+GT-TC,20.0 (wks),Megakaryocyte,25,0.563200633665851
+gStatOT,22.0 (wks),Megakaryocyte,25,0.055996521720173026
+StatOT,22.0 (wks),Megakaryocyte,25,0.0
+GT-TC,22.0 (wks),Megakaryocyte,25,0.6639115000560081
+gStatOT,23.0 (wks),Megakaryocyte,25,0.073640745381562
+StatOT,23.0 (wks),Megakaryocyte,25,0.1448569718349243
+GT-TC,23.0 (wks),Megakaryocyte,25,0.6661962822851906
+gStatOT,0.0 (yrs),Baso/Mast,50,0.0470736903947732
+StatOT,0.0 (yrs),Baso/Mast,50,0.14472621559776175
+GT-TC,0.0 (yrs),Baso/Mast,50,0.7334556980788975
+gStatOT,2.0 (yrs),Baso/Mast,50,0.05834843842450772
+StatOT,2.0 (yrs),Baso/Mast,50,6.825938566552901e-05
+GT-TC,2.0 (yrs),Baso/Mast,50,0.7292015176921779
+gStatOT,4.0 (yrs),Baso/Mast,50,0.04980004882866999
+StatOT,4.0 (yrs),Baso/Mast,50,6.825938566552901e-05
+GT-TC,4.0 (yrs),Baso/Mast,50,0.6777083019773644
+gStatOT,10.0 (yrs),Baso/Mast,50,0.041996152933166525
+StatOT,10.0 (yrs),Baso/Mast,50,6.825938566552901e-05
+GT-TC,10.0 (yrs),Baso/Mast,50,0.5464427308416566
+gStatOT,12.0 (yrs),Baso/Mast,50,0.03777145798473387
+StatOT,12.0 (yrs),Baso/Mast,50,0.01308741611890225
+GT-TC,12.0 (yrs),Baso/Mast,50,0.5196952962196897
+gStatOT,17.0 (yrs),Baso/Mast,50,0.028096599450816603
+StatOT,17.0 (yrs),Baso/Mast,50,0.06706065790597605
+GT-TC,17.0 (yrs),Baso/Mast,50,0.6893821473724051
+gStatOT,25.0 (yrs),Baso/Mast,50,0.03802804659559983
+StatOT,25.0 (yrs),Baso/Mast,50,0.040636912561516594
+GT-TC,25.0 (yrs),Baso/Mast,50,0.6260385853248261
+gStatOT,32.0 (yrs),Baso/Mast,50,0.02740396433305007
+StatOT,32.0 (yrs),Baso/Mast,50,6.825938566552901e-05
+GT-TC,32.0 (yrs),Baso/Mast,50,0.4711571255917045
+gStatOT,35.0 (yrs),Baso/Mast,50,0.026430715657921176
+StatOT,35.0 (yrs),Baso/Mast,50,0.03371689785081727
+GT-TC,35.0 (yrs),Baso/Mast,50,0.4647729963681319
+gStatOT,45.0 (yrs),Baso/Mast,50,0.06137521675493497
+StatOT,45.0 (yrs),Baso/Mast,50,0.19011543538806389
+GT-TC,45.0 (yrs),Baso/Mast,50,0.45661018337103887
+gStatOT,53.0 (yrs),Baso/Mast,50,0.0029811930627723247
+StatOT,53.0 (yrs),Baso/Mast,50,6.825938566552901e-05
+GT-TC,53.0 (yrs),Baso/Mast,50,0.3122158548540299
+gStatOT,62.0 (yrs),Baso/Mast,50,0.0015780123934157086
+StatOT,62.0 (yrs),Baso/Mast,50,0.028200114237442158
+GT-TC,62.0 (yrs),Baso/Mast,50,0.1956916330795641
+gStatOT,76.0 (yrs),Baso/Mast,50,0.045809305645989624
+StatOT,76.0 (yrs),Baso/Mast,50,6.825938566552901e-05
+GT-TC,76.0 (yrs),Baso/Mast,50,0.23947586353233064
+gStatOT,77.0 (yrs),Baso/Mast,50,0.03897883687224796
+StatOT,77.0 (yrs),Baso/Mast,50,0.07089721570197569
+GT-TC,77.0 (yrs),Baso/Mast,50,0.38095039957958443
+gStatOT,10.0 (wks),Baso/Mast,50,0.07299050343527608
+StatOT,10.0 (wks),Baso/Mast,50,0.005817511418693967
+GT-TC,10.0 (wks),Baso/Mast,50,0.7637988658189088
+gStatOT,11.0 (wks),Baso/Mast,50,0.06763810297625215
+StatOT,11.0 (wks),Baso/Mast,50,0.006710683314339724
+GT-TC,11.0 (wks),Baso/Mast,50,0.7232836387911925
+gStatOT,13.0 (wks),Baso/Mast,50,0.023095096120248036
+StatOT,13.0 (wks),Baso/Mast,50,0.004663470705258141
+GT-TC,13.0 (wks),Baso/Mast,50,0.6211514823806026
+gStatOT,14.0 (wks),Baso/Mast,50,0.07559155168654005
+StatOT,14.0 (wks),Baso/Mast,50,0.13173942216536147
+GT-TC,14.0 (wks),Baso/Mast,50,0.6333606789337044
+gStatOT,15.0 (wks),Baso/Mast,50,0.031046193404137425
+StatOT,15.0 (wks),Baso/Mast,50,0.32693740242304725
+GT-TC,15.0 (wks),Baso/Mast,50,0.6989745451274438
+gStatOT,20.0 (wks),Baso/Mast,50,0.0011971454550725755
+StatOT,20.0 (wks),Baso/Mast,50,0.010720838321087627
+GT-TC,20.0 (wks),Baso/Mast,50,0.7185594655648623
+gStatOT,22.0 (wks),Baso/Mast,50,0.00013103060800742603
+StatOT,22.0 (wks),Baso/Mast,50,6.8917507831535e-05
+GT-TC,22.0 (wks),Baso/Mast,50,0.785004503120532
+gStatOT,23.0 (wks),Baso/Mast,50,0.00013103060800742603
+StatOT,23.0 (wks),Baso/Mast,50,6.825938566552901e-05
+GT-TC,23.0 (wks),Baso/Mast,50,0.8353966078107118
+gStatOT,0.0 (yrs),Erythroid,50,0.5153802025717896
+StatOT,0.0 (yrs),Erythroid,50,0.2763448063814709
+GT-TC,0.0 (yrs),Erythroid,50,0.586374837383151
+gStatOT,2.0 (yrs),Erythroid,50,0.7794026368086748
+StatOT,2.0 (yrs),Erythroid,50,0.7524715815552444
+GT-TC,2.0 (yrs),Erythroid,50,0.5608184050972856
+gStatOT,4.0 (yrs),Erythroid,50,0.737685098980581
+StatOT,4.0 (yrs),Erythroid,50,0.0
+GT-TC,4.0 (yrs),Erythroid,50,0.7431753414252218
+gStatOT,10.0 (yrs),Erythroid,50,0.686312569221181
+StatOT,10.0 (yrs),Erythroid,50,0.5010837804632988
+GT-TC,10.0 (yrs),Erythroid,50,0.8645688228423921
+gStatOT,12.0 (yrs),Erythroid,50,0.7334115914518411
+StatOT,12.0 (yrs),Erythroid,50,0.5343118186066048
+GT-TC,12.0 (yrs),Erythroid,50,0.7410866895118811
+gStatOT,17.0 (yrs),Erythroid,50,0.415930929115002
+StatOT,17.0 (yrs),Erythroid,50,0.27159590960861696
+GT-TC,17.0 (yrs),Erythroid,50,0.6881862058913546
+gStatOT,25.0 (yrs),Erythroid,50,0.5840803133401267
+StatOT,25.0 (yrs),Erythroid,50,0.1691576069331046
+GT-TC,25.0 (yrs),Erythroid,50,0.7325402247091733
+gStatOT,32.0 (yrs),Erythroid,50,0.40169332053726575
+StatOT,32.0 (yrs),Erythroid,50,0.6557682135527501
+GT-TC,32.0 (yrs),Erythroid,50,0.6924718970381981
+gStatOT,35.0 (yrs),Erythroid,50,0.7131683189027243
+StatOT,35.0 (yrs),Erythroid,50,0.5135538217157466
+GT-TC,35.0 (yrs),Erythroid,50,0.6646075923711281
+gStatOT,45.0 (yrs),Erythroid,50,0.8361281775460059
+StatOT,45.0 (yrs),Erythroid,50,0.0419665162539343
+GT-TC,45.0 (yrs),Erythroid,50,0.7239687348426462
+gStatOT,53.0 (yrs),Erythroid,50,0.8626724605641045
+StatOT,53.0 (yrs),Erythroid,50,0.7522719491861077
+GT-TC,53.0 (yrs),Erythroid,50,0.8853188080708121
+gStatOT,62.0 (yrs),Erythroid,50,0.8305677085160578
+StatOT,62.0 (yrs),Erythroid,50,0.6713262694533627
+GT-TC,62.0 (yrs),Erythroid,50,0.8716396119532133
+gStatOT,76.0 (yrs),Erythroid,50,0.9192853223574455
+StatOT,76.0 (yrs),Erythroid,50,0.8115359243020751
+GT-TC,76.0 (yrs),Erythroid,50,0.8678574932526546
+gStatOT,77.0 (yrs),Erythroid,50,0.9405281363941456
+StatOT,77.0 (yrs),Erythroid,50,0.8801201046046151
+GT-TC,77.0 (yrs),Erythroid,50,0.9366297110888759
+gStatOT,10.0 (wks),Erythroid,50,0.6101686927519461
+StatOT,10.0 (wks),Erythroid,50,0.14500430333169528
+GT-TC,10.0 (wks),Erythroid,50,0.5727059803143476
+gStatOT,11.0 (wks),Erythroid,50,0.4278829549665133
+StatOT,11.0 (wks),Erythroid,50,0.19205666865638865
+GT-TC,11.0 (wks),Erythroid,50,0.5381543466668774
+gStatOT,13.0 (wks),Erythroid,50,0.4060368417918862
+StatOT,13.0 (wks),Erythroid,50,0.35350424195297026
+GT-TC,13.0 (wks),Erythroid,50,0.5834421509783867
+gStatOT,14.0 (wks),Erythroid,50,0.4683220127471099
+StatOT,14.0 (wks),Erythroid,50,0.4113005045495895
+GT-TC,14.0 (wks),Erythroid,50,0.6588606856294748
+gStatOT,15.0 (wks),Erythroid,50,0.28920578711828393
+StatOT,15.0 (wks),Erythroid,50,0.266636264476104
+GT-TC,15.0 (wks),Erythroid,50,0.49273582858274206
+gStatOT,20.0 (wks),Erythroid,50,0.43294304589262667
+StatOT,20.0 (wks),Erythroid,50,0.7121372848307794
+GT-TC,20.0 (wks),Erythroid,50,0.6188259340460279
+gStatOT,22.0 (wks),Erythroid,50,0.6051048464406548
+StatOT,22.0 (wks),Erythroid,50,0.5502101354678882
+GT-TC,22.0 (wks),Erythroid,50,0.8469888129456247
+gStatOT,23.0 (wks),Erythroid,50,0.6361314590779275
+StatOT,23.0 (wks),Erythroid,50,0.7458429571270472
+GT-TC,23.0 (wks),Erythroid,50,0.897824825498276
+gStatOT,0.0 (yrs),Lymphoid,50,0.9429278551677867
+StatOT,0.0 (yrs),Lymphoid,50,0.835575055465971
+GT-TC,0.0 (yrs),Lymphoid,50,0.868462745436577
+gStatOT,2.0 (yrs),Lymphoid,50,0.9495577523542448
+StatOT,2.0 (yrs),Lymphoid,50,0.8348605295635683
+GT-TC,2.0 (yrs),Lymphoid,50,0.86394592086338
+gStatOT,4.0 (yrs),Lymphoid,50,0.9350288380070757
+StatOT,4.0 (yrs),Lymphoid,50,0.794604892250143
+GT-TC,4.0 (yrs),Lymphoid,50,0.8857870074388781
+gStatOT,10.0 (yrs),Lymphoid,50,0.9598908883114635
+StatOT,10.0 (yrs),Lymphoid,50,0.8919596330932531
+GT-TC,10.0 (yrs),Lymphoid,50,0.926510356944402
+gStatOT,12.0 (yrs),Lymphoid,50,0.9484743393791685
+StatOT,12.0 (yrs),Lymphoid,50,0.8717395583647578
+GT-TC,12.0 (yrs),Lymphoid,50,0.9272583343703018
+gStatOT,17.0 (yrs),Lymphoid,50,0.9435708765851354
+StatOT,17.0 (yrs),Lymphoid,50,0.8384428283586454
+GT-TC,17.0 (yrs),Lymphoid,50,0.9161761466231708
+gStatOT,25.0 (yrs),Lymphoid,50,0.9359261438657623
+StatOT,25.0 (yrs),Lymphoid,50,0.8347341298955763
+GT-TC,25.0 (yrs),Lymphoid,50,0.9365300673343748
+gStatOT,32.0 (yrs),Lymphoid,50,0.960159422601508
+StatOT,32.0 (yrs),Lymphoid,50,0.9215326452218219
+GT-TC,32.0 (yrs),Lymphoid,50,0.9576744927326466
+gStatOT,35.0 (yrs),Lymphoid,50,0.949500030745371
+StatOT,35.0 (yrs),Lymphoid,50,0.8838769631472304
+GT-TC,35.0 (yrs),Lymphoid,50,0.948518937177091
+gStatOT,45.0 (yrs),Lymphoid,50,0.9797957674007182
+StatOT,45.0 (yrs),Lymphoid,50,0.7506128075968305
+GT-TC,45.0 (yrs),Lymphoid,50,0.9277405575273587
+gStatOT,53.0 (yrs),Lymphoid,50,0.9263058815080296
+StatOT,53.0 (yrs),Lymphoid,50,0.40159474937345907
+GT-TC,53.0 (yrs),Lymphoid,50,0.8379667672039457
+gStatOT,62.0 (yrs),Lymphoid,50,0.7725829760540677
+StatOT,62.0 (yrs),Lymphoid,50,0.4064067172433775
+GT-TC,62.0 (yrs),Lymphoid,50,0.7374199870083828
+gStatOT,76.0 (yrs),Lymphoid,50,0.6504615775456247
+StatOT,76.0 (yrs),Lymphoid,50,0.34402549918843983
+GT-TC,76.0 (yrs),Lymphoid,50,0.7235949524813293
+gStatOT,77.0 (yrs),Lymphoid,50,0.6762784736440564
+StatOT,77.0 (yrs),Lymphoid,50,0.11211633723766651
+GT-TC,77.0 (yrs),Lymphoid,50,0.7357949175969765
+gStatOT,10.0 (wks),Lymphoid,50,0.6106303184145672
+StatOT,10.0 (wks),Lymphoid,50,0.46019694641835374
+GT-TC,10.0 (wks),Lymphoid,50,0.8017096323370511
+gStatOT,11.0 (wks),Lymphoid,50,0.6519404847611121
+StatOT,11.0 (wks),Lymphoid,50,0.6235449368547479
+GT-TC,11.0 (wks),Lymphoid,50,0.8627460058981369
+gStatOT,13.0 (wks),Lymphoid,50,0.654645751328039
+StatOT,13.0 (wks),Lymphoid,50,0.6079608666840839
+GT-TC,13.0 (wks),Lymphoid,50,0.8888244391922443
+gStatOT,14.0 (wks),Lymphoid,50,0.6506942424949369
+StatOT,14.0 (wks),Lymphoid,50,0.5826121796369567
+GT-TC,14.0 (wks),Lymphoid,50,0.8794295408324191
+gStatOT,15.0 (wks),Lymphoid,50,0.6847893871852072
+StatOT,15.0 (wks),Lymphoid,50,0.5270347268042548
+GT-TC,15.0 (wks),Lymphoid,50,0.7942459844655239
+gStatOT,20.0 (wks),Lymphoid,50,0.6162342425500777
+StatOT,20.0 (wks),Lymphoid,50,0.4647853366376053
+GT-TC,20.0 (wks),Lymphoid,50,0.7295645094776213
+gStatOT,22.0 (wks),Lymphoid,50,0.6298005216856566
+StatOT,22.0 (wks),Lymphoid,50,0.38787073646521564
+GT-TC,22.0 (wks),Lymphoid,50,0.6796489122168237
+gStatOT,23.0 (wks),Lymphoid,50,0.5455456077332168
+StatOT,23.0 (wks),Lymphoid,50,0.35019592062946175
+GT-TC,23.0 (wks),Lymphoid,50,0.6117868690717009
+gStatOT,0.0 (yrs),Mono/DC,50,0.8532174480362253
+StatOT,0.0 (yrs),Mono/DC,50,0.39372031936200985
+GT-TC,0.0 (yrs),Mono/DC,50,0.7724060670487835
+gStatOT,2.0 (yrs),Mono/DC,50,0.8118142681813869
+StatOT,2.0 (yrs),Mono/DC,50,0.48665523307737124
+GT-TC,2.0 (yrs),Mono/DC,50,0.8097406368223846
+gStatOT,4.0 (yrs),Mono/DC,50,0.8539778896622139
+StatOT,4.0 (yrs),Mono/DC,50,0.0
+GT-TC,4.0 (yrs),Mono/DC,50,0.8087653035538431
+gStatOT,10.0 (yrs),Mono/DC,50,0.8248218977983917
+StatOT,10.0 (yrs),Mono/DC,50,0.0
+GT-TC,10.0 (yrs),Mono/DC,50,0.7934086101178857
+gStatOT,12.0 (yrs),Mono/DC,50,0.8193241275701285
+StatOT,12.0 (yrs),Mono/DC,50,0.20815428106768608
+GT-TC,12.0 (yrs),Mono/DC,50,0.8207085984024576
+gStatOT,17.0 (yrs),Mono/DC,50,0.7753593025922999
+StatOT,17.0 (yrs),Mono/DC,50,0.5725861704573822
+GT-TC,17.0 (yrs),Mono/DC,50,0.8193842467581852
+gStatOT,25.0 (yrs),Mono/DC,50,0.8320592240003083
+StatOT,25.0 (yrs),Mono/DC,50,0.3600622440398393
+GT-TC,25.0 (yrs),Mono/DC,50,0.8802529131487098
+gStatOT,32.0 (yrs),Mono/DC,50,0.8376008802545672
+StatOT,32.0 (yrs),Mono/DC,50,0.27898828247075586
+GT-TC,32.0 (yrs),Mono/DC,50,0.8851349890029832
+gStatOT,35.0 (yrs),Mono/DC,50,0.7917338117830878
+StatOT,35.0 (yrs),Mono/DC,50,0.000351628970585454
+GT-TC,35.0 (yrs),Mono/DC,50,0.8391045124043943
+gStatOT,45.0 (yrs),Mono/DC,50,0.8351620563958307
+StatOT,45.0 (yrs),Mono/DC,50,0.46781492652977436
+GT-TC,45.0 (yrs),Mono/DC,50,0.8268711562971667
+gStatOT,53.0 (yrs),Mono/DC,50,0.8299303695562413
+StatOT,53.0 (yrs),Mono/DC,50,0.32331440371208514
+GT-TC,53.0 (yrs),Mono/DC,50,0.8230775401332903
+gStatOT,62.0 (yrs),Mono/DC,50,0.7878787525664933
+StatOT,62.0 (yrs),Mono/DC,50,0.3657692335489462
+GT-TC,62.0 (yrs),Mono/DC,50,0.7493360831093389
+gStatOT,76.0 (yrs),Mono/DC,50,0.4772344531590289
+StatOT,76.0 (yrs),Mono/DC,50,0.0
+GT-TC,76.0 (yrs),Mono/DC,50,0.7498790592565222
+gStatOT,77.0 (yrs),Mono/DC,50,0.5673803401706192
+StatOT,77.0 (yrs),Mono/DC,50,0.34541255006330734
+GT-TC,77.0 (yrs),Mono/DC,50,0.7949238814054269
+gStatOT,10.0 (wks),Mono/DC,50,0.9627105260813711
+StatOT,10.0 (wks),Mono/DC,50,0.899233573677019
+GT-TC,10.0 (wks),Mono/DC,50,0.8452108403630976
+gStatOT,11.0 (wks),Mono/DC,50,0.95206205966585
+StatOT,11.0 (wks),Mono/DC,50,0.9402593800653275
+GT-TC,11.0 (wks),Mono/DC,50,0.8764284280247012
+gStatOT,13.0 (wks),Mono/DC,50,0.9592852028979796
+StatOT,13.0 (wks),Mono/DC,50,0.8354265477749415
+GT-TC,13.0 (wks),Mono/DC,50,0.863646766268844
+gStatOT,14.0 (wks),Mono/DC,50,0.9681497637875094
+StatOT,14.0 (wks),Mono/DC,50,0.9091000048712518
+GT-TC,14.0 (wks),Mono/DC,50,0.8703677925202005
+gStatOT,15.0 (wks),Mono/DC,50,0.9566471750625606
+StatOT,15.0 (wks),Mono/DC,50,0.9061521131155339
+GT-TC,15.0 (wks),Mono/DC,50,0.6973627686513975
+gStatOT,20.0 (wks),Mono/DC,50,0.39289843851304385
+StatOT,20.0 (wks),Mono/DC,50,0.5119970755540965
+GT-TC,20.0 (wks),Mono/DC,50,0.4982730165111693
+gStatOT,22.0 (wks),Mono/DC,50,0.6207463900404558
+StatOT,22.0 (wks),Mono/DC,50,0.17822522357076143
+GT-TC,22.0 (wks),Mono/DC,50,0.6532929507990908
+gStatOT,23.0 (wks),Mono/DC,50,0.5483133084190098
+StatOT,23.0 (wks),Mono/DC,50,0.0004351317609744576
+GT-TC,23.0 (wks),Mono/DC,50,0.7889409181236475
+gStatOT,0.0 (yrs),Granulocyte,50,0.9215937429839124
+StatOT,0.0 (yrs),Granulocyte,50,0.6688622643324517
+GT-TC,0.0 (yrs),Granulocyte,50,0.8661232723899834
+gStatOT,2.0 (yrs),Granulocyte,50,0.9609125875137644
+StatOT,2.0 (yrs),Granulocyte,50,0.0712872587352952
+GT-TC,2.0 (yrs),Granulocyte,50,0.8814197532559364
+gStatOT,4.0 (yrs),Granulocyte,50,0.9656707991326888
+StatOT,4.0 (yrs),Granulocyte,50,0.10429727551001623
+GT-TC,4.0 (yrs),Granulocyte,50,0.8759201881575688
+gStatOT,10.0 (yrs),Granulocyte,50,0.9382245920151228
+StatOT,10.0 (yrs),Granulocyte,50,0.8237716865134732
+GT-TC,10.0 (yrs),Granulocyte,50,0.9077854093019893
+gStatOT,12.0 (yrs),Granulocyte,50,0.9463507235230166
+StatOT,12.0 (yrs),Granulocyte,50,0.7178558258189455
+GT-TC,12.0 (yrs),Granulocyte,50,0.931133569121316
+gStatOT,17.0 (yrs),Granulocyte,50,0.9499992129572769
+StatOT,17.0 (yrs),Granulocyte,50,0.7638536955170891
+GT-TC,17.0 (yrs),Granulocyte,50,0.8422192920439033
+gStatOT,25.0 (yrs),Granulocyte,50,0.9475634732801859
+StatOT,25.0 (yrs),Granulocyte,50,0.720107680675575
+GT-TC,25.0 (yrs),Granulocyte,50,0.8418430418387062
+gStatOT,32.0 (yrs),Granulocyte,50,0.8736999024577401
+StatOT,32.0 (yrs),Granulocyte,50,0.850533385967956
+GT-TC,32.0 (yrs),Granulocyte,50,0.8834333484406657
+gStatOT,35.0 (yrs),Granulocyte,50,0.9353426703524229
+StatOT,35.0 (yrs),Granulocyte,50,0.8733269717864105
+GT-TC,35.0 (yrs),Granulocyte,50,0.8731904404277613
+gStatOT,45.0 (yrs),Granulocyte,50,0.8469658857205817
+StatOT,45.0 (yrs),Granulocyte,50,0.22247798370573751
+GT-TC,45.0 (yrs),Granulocyte,50,0.881201668885381
+gStatOT,53.0 (yrs),Granulocyte,50,0.779769839272468
+StatOT,53.0 (yrs),Granulocyte,50,0.6463530788474796
+GT-TC,53.0 (yrs),Granulocyte,50,0.8859952761455785
+gStatOT,62.0 (yrs),Granulocyte,50,0.5110237669113005
+StatOT,62.0 (yrs),Granulocyte,50,0.6125130950009681
+GT-TC,62.0 (yrs),Granulocyte,50,0.7619348362284504
+gStatOT,76.0 (yrs),Granulocyte,50,0.5377512184790106
+StatOT,76.0 (yrs),Granulocyte,50,0.6921872852177825
+GT-TC,76.0 (yrs),Granulocyte,50,0.67820425531121
+gStatOT,77.0 (yrs),Granulocyte,50,0.37507966287740596
+StatOT,77.0 (yrs),Granulocyte,50,0.47576589818849657
+GT-TC,77.0 (yrs),Granulocyte,50,0.7925834193171363
+gStatOT,10.0 (wks),Granulocyte,50,0.4111230274323669
+StatOT,10.0 (wks),Granulocyte,50,0.4227475160641822
+GT-TC,10.0 (wks),Granulocyte,50,0.7832557159209415
+gStatOT,11.0 (wks),Granulocyte,50,0.6781785895995464
+StatOT,11.0 (wks),Granulocyte,50,0.7869990878027923
+GT-TC,11.0 (wks),Granulocyte,50,0.7789162658555739
+gStatOT,13.0 (wks),Granulocyte,50,0.49301214258147347
+StatOT,13.0 (wks),Granulocyte,50,0.7493471919424733
+GT-TC,13.0 (wks),Granulocyte,50,0.7446428541433843
+gStatOT,14.0 (wks),Granulocyte,50,0.3538079722541594
+StatOT,14.0 (wks),Granulocyte,50,0.25994585206857207
+GT-TC,14.0 (wks),Granulocyte,50,0.7821475662602632
+gStatOT,15.0 (wks),Granulocyte,50,0.2673503589445367
+StatOT,15.0 (wks),Granulocyte,50,0.08429378706335734
+GT-TC,15.0 (wks),Granulocyte,50,0.7992721515897249
+gStatOT,20.0 (wks),Granulocyte,50,0.25379855271833845
+StatOT,20.0 (wks),Granulocyte,50,0.08211297813109784
+GT-TC,20.0 (wks),Granulocyte,50,0.7334441776524783
+gStatOT,22.0 (wks),Granulocyte,50,0.3204728364585266
+StatOT,22.0 (wks),Granulocyte,50,0.0009441686558034032
+GT-TC,22.0 (wks),Granulocyte,50,0.7302651732422034
+gStatOT,23.0 (wks),Granulocyte,50,0.36321340326903745
+StatOT,23.0 (wks),Granulocyte,50,0.18728912997972305
+GT-TC,23.0 (wks),Granulocyte,50,0.8269210120722497
+gStatOT,0.0 (yrs),Megakaryocyte,50,0.02366017443791281
+StatOT,0.0 (yrs),Megakaryocyte,50,0.0
+GT-TC,0.0 (yrs),Megakaryocyte,50,0.034169799498746864
+gStatOT,2.0 (yrs),Megakaryocyte,50,0.021185848923480896
+StatOT,2.0 (yrs),Megakaryocyte,50,0.00016157495500406923
+GT-TC,2.0 (yrs),Megakaryocyte,50,0.12087985625485625
+gStatOT,4.0 (yrs),Megakaryocyte,50,0.02423205015548288
+StatOT,4.0 (yrs),Megakaryocyte,50,2.3668639053254438e-05
+GT-TC,4.0 (yrs),Megakaryocyte,50,0.10111207633829586
+gStatOT,10.0 (yrs),Megakaryocyte,50,0.07179955418102332
+StatOT,10.0 (yrs),Megakaryocyte,50,0.0002469135802469136
+GT-TC,10.0 (yrs),Megakaryocyte,50,0.23696040075935956
+gStatOT,12.0 (yrs),Megakaryocyte,50,0.049473881802340545
+StatOT,12.0 (yrs),Megakaryocyte,50,2.9282576866764276e-05
+GT-TC,12.0 (yrs),Megakaryocyte,50,0.2154500174811228
+gStatOT,17.0 (yrs),Megakaryocyte,50,0.07616842931134454
+StatOT,17.0 (yrs),Megakaryocyte,50,0.0002469135802469136
+GT-TC,17.0 (yrs),Megakaryocyte,50,0.20418305466829215
+gStatOT,25.0 (yrs),Megakaryocyte,50,0.2410881210653565
+StatOT,25.0 (yrs),Megakaryocyte,50,0.0001680672268907563
+GT-TC,25.0 (yrs),Megakaryocyte,50,0.30896355901508765
+gStatOT,32.0 (yrs),Megakaryocyte,50,0.020719440684041076
+StatOT,32.0 (yrs),Megakaryocyte,50,0.003036672193497062
+GT-TC,32.0 (yrs),Megakaryocyte,50,0.46058730440192897
+gStatOT,35.0 (yrs),Megakaryocyte,50,0.020051925909800084
+StatOT,35.0 (yrs),Megakaryocyte,50,0.0016967337695506324
+GT-TC,35.0 (yrs),Megakaryocyte,50,0.5787328531942514
+gStatOT,45.0 (yrs),Megakaryocyte,50,0.022567216507936846
+StatOT,45.0 (yrs),Megakaryocyte,50,0.0014815450311726854
+GT-TC,45.0 (yrs),Megakaryocyte,50,0.6590090273369166
+gStatOT,53.0 (yrs),Megakaryocyte,50,0.019552424435996342
+StatOT,53.0 (yrs),Megakaryocyte,50,0.0002469135802469136
+GT-TC,53.0 (yrs),Megakaryocyte,50,0.7439476527187844
+gStatOT,62.0 (yrs),Megakaryocyte,50,0.011757521535558077
+StatOT,62.0 (yrs),Megakaryocyte,50,0.0002469135802469136
+GT-TC,62.0 (yrs),Megakaryocyte,50,0.7545231581791194
+gStatOT,76.0 (yrs),Megakaryocyte,50,0.036494767044954114
+StatOT,76.0 (yrs),Megakaryocyte,50,0.0005199161556555884
+GT-TC,76.0 (yrs),Megakaryocyte,50,0.8078326719866041
+gStatOT,77.0 (yrs),Megakaryocyte,50,0.042743561367886186
+StatOT,77.0 (yrs),Megakaryocyte,50,0.18841171078071434
+GT-TC,77.0 (yrs),Megakaryocyte,50,0.8328615589869756
+gStatOT,10.0 (wks),Megakaryocyte,50,0.030636611649698584
+StatOT,10.0 (wks),Megakaryocyte,50,0.0
+GT-TC,10.0 (wks),Megakaryocyte,50,0.024106184812330317
+gStatOT,11.0 (wks),Megakaryocyte,50,0.0019433067445248167
+StatOT,11.0 (wks),Megakaryocyte,50,0.5882078569267017
+GT-TC,11.0 (wks),Megakaryocyte,50,0.055355988503466236
+gStatOT,13.0 (wks),Megakaryocyte,50,0.027644988317347664
+StatOT,13.0 (wks),Megakaryocyte,50,0.2028977793064649
+GT-TC,13.0 (wks),Megakaryocyte,50,0.3642974842513074
+gStatOT,14.0 (wks),Megakaryocyte,50,0.02608123686856091
+StatOT,14.0 (wks),Megakaryocyte,50,0.0002469135802469136
+GT-TC,14.0 (wks),Megakaryocyte,50,0.6914136752440525
+gStatOT,15.0 (wks),Megakaryocyte,50,0.028151627476737738
+StatOT,15.0 (wks),Megakaryocyte,50,0.0
+GT-TC,15.0 (wks),Megakaryocyte,50,0.5503048185787125
+gStatOT,20.0 (wks),Megakaryocyte,50,0.05051189048955839
+StatOT,20.0 (wks),Megakaryocyte,50,0.0
+GT-TC,20.0 (wks),Megakaryocyte,50,0.5136475978376159
+gStatOT,22.0 (wks),Megakaryocyte,50,0.042571397194288985
+StatOT,22.0 (wks),Megakaryocyte,50,0.0002469135802469136
+GT-TC,22.0 (wks),Megakaryocyte,50,0.5786394146690976
+gStatOT,23.0 (wks),Megakaryocyte,50,0.05718650476444635
+StatOT,23.0 (wks),Megakaryocyte,50,0.14071466883130465
+GT-TC,23.0 (wks),Megakaryocyte,50,0.6127385132648978
+DE baseline,0.0 (yrs),Baso/Mast,5,0.056239048475890584
+DE baseline,0.0 (yrs),Erythroid,5,0.21444132062419716
+DE baseline,0.0 (yrs),Lymphoid,5,0.8142857142857143
+DE baseline,0.0 (yrs),Mono/DC,5,0.1430120596827543
+DE baseline,0.0 (yrs),Granulocyte,5,0.7944444444444445
+DE baseline,0.0 (yrs),Megakaryocyte,5,0.010040060846326106
+DE baseline,0.0 (yrs),Baso/Mast,10,0.03542426780091254
+DE baseline,0.0 (yrs),Erythroid,10,0.21533874916924498
+DE baseline,0.0 (yrs),Lymphoid,10,0.6979290601871246
+DE baseline,0.0 (yrs),Mono/DC,10,0.1421614223616255
+DE baseline,0.0 (yrs),Granulocyte,10,0.6683406432748538
+DE baseline,0.0 (yrs),Megakaryocyte,10,0.005020030423163053
+DE baseline,0.0 (yrs),Baso/Mast,25,0.04237213546687231
+DE baseline,0.0 (yrs),Erythroid,25,0.13543617784263756
+DE baseline,0.0 (yrs),Lymphoid,25,0.7120560678759718
+DE baseline,0.0 (yrs),Mono/DC,25,0.16359434663563927
+DE baseline,0.0 (yrs),Granulocyte,25,0.6921208245437895
+DE baseline,0.0 (yrs),Megakaryocyte,25,0.06368398397281022
+DE baseline,0.0 (yrs),Baso/Mast,50,0.04594725736798078
+DE baseline,0.0 (yrs),Erythroid,50,0.1535629827563397
+DE baseline,0.0 (yrs),Lymphoid,50,0.6820896089154145
+DE baseline,0.0 (yrs),Mono/DC,50,0.31450318636509533
+DE baseline,0.0 (yrs),Granulocyte,50,0.570925157737429
+DE baseline,0.0 (yrs),Megakaryocyte,50,0.06397607760729407
+DE baseline,2.0 (yrs),Baso/Mast,5,0.25880062489644234
+DE baseline,2.0 (yrs),Erythroid,5,0.0034812613166615423
+DE baseline,2.0 (yrs),Lymphoid,5,0.6242424242424243
+DE baseline,2.0 (yrs),Mono/DC,5,0.1532073234553364
+DE baseline,2.0 (yrs),Granulocyte,5,0.7797979797979797
+DE baseline,2.0 (yrs),Megakaryocyte,5,0.06666666666666667
+DE baseline,2.0 (yrs),Baso/Mast,10,0.17249158065201306
+DE baseline,2.0 (yrs),Erythroid,10,0.05409475824917688
+DE baseline,2.0 (yrs),Lymphoid,10,0.6899514374514375
+DE baseline,2.0 (yrs),Mono/DC,10,0.14602813826929528
+DE baseline,2.0 (yrs),Granulocyte,10,0.8258026695526695
+DE baseline,2.0 (yrs),Megakaryocyte,10,0.03333333333333333
+DE baseline,2.0 (yrs),Baso/Mast,25,0.11076164477602804
+DE baseline,2.0 (yrs),Erythroid,25,0.06253143469256968
+DE baseline,2.0 (yrs),Lymphoid,25,0.7223839622221975
+DE baseline,2.0 (yrs),Mono/DC,25,0.23289223247562024
+DE baseline,2.0 (yrs),Granulocyte,25,0.6642327272383683
+DE baseline,2.0 (yrs),Megakaryocyte,25,0.027096774193548386
+DE baseline,2.0 (yrs),Baso/Mast,50,0.05803829774791217
+DE baseline,2.0 (yrs),Erythroid,50,0.05061042692976061
+DE baseline,2.0 (yrs),Lymphoid,50,0.7501766562706051
+DE baseline,2.0 (yrs),Mono/DC,50,0.25993263235427216
+DE baseline,2.0 (yrs),Granulocyte,50,0.635798748821732
+DE baseline,2.0 (yrs),Megakaryocyte,50,0.04403807661872178
+DE baseline,4.0 (yrs),Baso/Mast,5,0.2708404936728636
+DE baseline,4.0 (yrs),Erythroid,5,0.20456509216589863
+DE baseline,4.0 (yrs),Lymphoid,5,0.7069230769230769
+DE baseline,4.0 (yrs),Mono/DC,5,0.29320359722836503
+DE baseline,4.0 (yrs),Granulocyte,5,0.7526315789473684
+DE baseline,4.0 (yrs),Megakaryocyte,5,0.0004106776180698152
+DE baseline,4.0 (yrs),Baso/Mast,10,0.17801494832221937
+DE baseline,4.0 (yrs),Erythroid,10,0.11198356025498715
+DE baseline,4.0 (yrs),Lymphoid,10,0.6554727483829869
+DE baseline,4.0 (yrs),Mono/DC,10,0.20451888153126543
+DE baseline,4.0 (yrs),Granulocyte,10,0.6716229158504201
+DE baseline,4.0 (yrs),Megakaryocyte,10,0.025410677618069817
+DE baseline,4.0 (yrs),Baso/Mast,25,0.10613130691878504
+DE baseline,4.0 (yrs),Erythroid,25,0.07467687609923998
+DE baseline,4.0 (yrs),Lymphoid,25,0.8017552503505807
+DE baseline,4.0 (yrs),Mono/DC,25,0.13260281159755524
+DE baseline,4.0 (yrs),Granulocyte,25,0.6347383187275689
+DE baseline,4.0 (yrs),Megakaryocyte,25,0.012522723783867963
+DE baseline,4.0 (yrs),Baso/Mast,50,0.1482917619988557
+DE baseline,4.0 (yrs),Erythroid,50,0.08612907859312331
+DE baseline,4.0 (yrs),Lymphoid,50,0.6860087907270388
+DE baseline,4.0 (yrs),Mono/DC,50,0.14623695302593456
+DE baseline,4.0 (yrs),Granulocyte,50,0.5729342469246343
+DE baseline,4.0 (yrs),Megakaryocyte,50,0.006891893892918178
+DE baseline,10.0 (yrs),Erythroid,5,0.27634408602150534
+DE baseline,10.0 (yrs),Lymphoid,5,0.5988455988455988
+DE baseline,10.0 (yrs),Mono/DC,5,0.12551859099804305
+DE baseline,10.0 (yrs),Granulocyte,5,0.767816091954023
+DE baseline,10.0 (yrs),Megakaryocyte,5,0.21114551083591332
+DE baseline,10.0 (yrs),Erythroid,10,0.15300685474873305
+DE baseline,10.0 (yrs),Lymphoid,10,0.597314308498519
+DE baseline,10.0 (yrs),Mono/DC,10,0.13566938789953722
+DE baseline,10.0 (yrs),Granulocyte,10,0.7907925472747497
+DE baseline,10.0 (yrs),Megakaryocyte,10,0.17497420020639834
+DE baseline,10.0 (yrs),Erythroid,25,0.13918095385993168
+DE baseline,10.0 (yrs),Lymphoid,25,0.7047605869169647
+DE baseline,10.0 (yrs),Mono/DC,25,0.13472016997824157
+DE baseline,10.0 (yrs),Granulocyte,25,0.6822287892630292
+DE baseline,10.0 (yrs),Megakaryocyte,25,0.19653380146151453
+DE baseline,10.0 (yrs),Erythroid,50,0.1178628550587805
+DE baseline,10.0 (yrs),Lymphoid,50,0.6601451495913518
+DE baseline,10.0 (yrs),Mono/DC,50,0.1541647512424604
+DE baseline,10.0 (yrs),Granulocyte,50,0.7156639543181333
+DE baseline,10.0 (yrs),Megakaryocyte,50,0.14904528541756668
+DE baseline,12.0 (yrs),Baso/Mast,5,0.17591045302309186
+DE baseline,12.0 (yrs),Erythroid,5,0.21998264123019046
+DE baseline,12.0 (yrs),Lymphoid,5,0.8111111111111111
+DE baseline,12.0 (yrs),Mono/DC,5,0.37335526315789475
+DE baseline,12.0 (yrs),Granulocyte,5,0.8761904761904763
+DE baseline,12.0 (yrs),Baso/Mast,10,0.1526723038179784
+DE baseline,12.0 (yrs),Erythroid,10,0.29995589565268616
+DE baseline,12.0 (yrs),Lymphoid,10,0.70532630205044
+DE baseline,12.0 (yrs),Mono/DC,10,0.3689495931858632
+DE baseline,12.0 (yrs),Granulocyte,10,0.7526839826839826
+DE baseline,12.0 (yrs),Baso/Mast,25,0.09924289732645146
+DE baseline,12.0 (yrs),Erythroid,25,0.1723353257481475
+DE baseline,12.0 (yrs),Lymphoid,25,0.678485946545868
+DE baseline,12.0 (yrs),Mono/DC,25,0.2848163928743588
+DE baseline,12.0 (yrs),Granulocyte,25,0.6967743487503456
+DE baseline,12.0 (yrs),Baso/Mast,50,0.0890612523296748
+DE baseline,12.0 (yrs),Erythroid,50,0.1394886424868257
+DE baseline,12.0 (yrs),Lymphoid,50,0.7851265995383443
+DE baseline,12.0 (yrs),Mono/DC,50,0.3369604123907121
+DE baseline,12.0 (yrs),Granulocyte,50,0.5915122436207026
+DE baseline,17.0 (yrs),Baso/Mast,5,0.18715675129468232
+DE baseline,17.0 (yrs),Erythroid,5,0.2387069846089053
+DE baseline,17.0 (yrs),Lymphoid,5,0.7055555555555555
+DE baseline,17.0 (yrs),Mono/DC,5,0.3776895206243033
+DE baseline,17.0 (yrs),Granulocyte,5,0.9028571428571428
+DE baseline,17.0 (yrs),Megakaryocyte,5,0.44170717701454415
+DE baseline,17.0 (yrs),Baso/Mast,10,0.4669677609499634
+DE baseline,17.0 (yrs),Erythroid,10,0.23936805126620614
+DE baseline,17.0 (yrs),Lymphoid,10,0.7412820512820513
+DE baseline,17.0 (yrs),Mono/DC,10,0.26735021843697826
+DE baseline,17.0 (yrs),Granulocyte,10,0.7688141923436042
+DE baseline,17.0 (yrs),Megakaryocyte,10,0.22226868284689472
+DE baseline,17.0 (yrs),Baso/Mast,25,0.3761243719540399
+DE baseline,17.0 (yrs),Erythroid,25,0.2477105975764931
+DE baseline,17.0 (yrs),Lymphoid,25,0.7313084173104191
+DE baseline,17.0 (yrs),Mono/DC,25,0.30183876669873255
+DE baseline,17.0 (yrs),Granulocyte,25,0.7291993865672292
+DE baseline,17.0 (yrs),Megakaryocyte,25,0.1431298061437335
+DE baseline,17.0 (yrs),Baso/Mast,50,0.19669854459839342
+DE baseline,17.0 (yrs),Erythroid,50,0.20783927837501148
+DE baseline,17.0 (yrs),Lymphoid,50,0.7060945742023047
+DE baseline,17.0 (yrs),Mono/DC,50,0.3109850338275448
+DE baseline,17.0 (yrs),Granulocyte,50,0.6797548471579461
+DE baseline,17.0 (yrs),Megakaryocyte,50,0.09285317820546131
+DE baseline,25.0 (yrs),Baso/Mast,5,0.05991931960044633
+DE baseline,25.0 (yrs),Erythroid,5,0.24332340822595694
+DE baseline,25.0 (yrs),Lymphoid,5,0.7069230769230769
+DE baseline,25.0 (yrs),Mono/DC,5,0.296060606060606
+DE baseline,25.0 (yrs),Granulocyte,5,0.7698412698412699
+DE baseline,25.0 (yrs),Megakaryocyte,5,0.005111083059833375
+DE baseline,25.0 (yrs),Baso/Mast,10,0.05739608466268078
+DE baseline,25.0 (yrs),Erythroid,10,0.19253071457794574
+DE baseline,25.0 (yrs),Lymphoid,10,0.6700785773366419
+DE baseline,25.0 (yrs),Mono/DC,10,0.27881395572319934
+DE baseline,25.0 (yrs),Granulocyte,10,0.8828102453102453
+DE baseline,25.0 (yrs),Megakaryocyte,10,0.0025555415299166875
+DE baseline,25.0 (yrs),Baso/Mast,25,0.14791248186423941
+DE baseline,25.0 (yrs),Erythroid,25,0.5232613333716407
+DE baseline,25.0 (yrs),Lymphoid,25,0.7014830542785362
+DE baseline,25.0 (yrs),Mono/DC,25,0.2638714196743277
+DE baseline,25.0 (yrs),Granulocyte,25,0.7917186383907169
+DE baseline,25.0 (yrs),Megakaryocyte,25,0.014254536242861448
+DE baseline,25.0 (yrs),Baso/Mast,50,0.08239734368409929
+DE baseline,25.0 (yrs),Erythroid,50,0.5889304800773582
+DE baseline,25.0 (yrs),Lymphoid,50,0.6558226157970597
+DE baseline,25.0 (yrs),Mono/DC,50,0.5075368666523804
+DE baseline,25.0 (yrs),Granulocyte,50,0.7256804485023406
+DE baseline,25.0 (yrs),Megakaryocyte,50,0.014585454059913612
+DE baseline,32.0 (yrs),Baso/Mast,5,0.0004329004329004329
+DE baseline,32.0 (yrs),Erythroid,5,0.2659199878712074
+DE baseline,32.0 (yrs),Lymphoid,5,0.7658119658119659
+DE baseline,32.0 (yrs),Mono/DC,5,0.15638557520910462
+DE baseline,32.0 (yrs),Granulocyte,5,0.885
+DE baseline,32.0 (yrs),Megakaryocyte,5,0.34435297706002277
+DE baseline,32.0 (yrs),Baso/Mast,10,0.0008175158175158174
+DE baseline,32.0 (yrs),Erythroid,10,0.20609940699243406
+DE baseline,32.0 (yrs),Lymphoid,10,0.7108473748473749
+DE baseline,32.0 (yrs),Mono/DC,10,0.14684249447505454
+DE baseline,32.0 (yrs),Granulocyte,10,0.9497222222222221
+DE baseline,32.0 (yrs),Megakaryocyte,10,0.24510769000262203
+DE baseline,32.0 (yrs),Baso/Mast,25,0.007588811188811189
+DE baseline,32.0 (yrs),Erythroid,25,0.5120034291748596
+DE baseline,32.0 (yrs),Lymphoid,25,0.7148965656580976
+DE baseline,32.0 (yrs),Mono/DC,25,0.24923502257721658
+DE baseline,32.0 (yrs),Granulocyte,25,0.8224082641869858
+DE baseline,32.0 (yrs),Megakaryocyte,25,0.23240489121706556
+DE baseline,32.0 (yrs),Baso/Mast,50,0.005260112712669411
+DE baseline,32.0 (yrs),Erythroid,50,0.5468224203604819
+DE baseline,32.0 (yrs),Lymphoid,50,0.7126946192073528
+DE baseline,32.0 (yrs),Mono/DC,50,0.3634998350725956
+DE baseline,32.0 (yrs),Granulocyte,50,0.8099850078756625
+DE baseline,32.0 (yrs),Megakaryocyte,50,0.1655214322112341
+DE baseline,35.0 (yrs),Baso/Mast,5,0.29009604009604006
+DE baseline,35.0 (yrs),Erythroid,5,0.4841575091575091
+DE baseline,35.0 (yrs),Lymphoid,5,0.7277777777777777
+DE baseline,35.0 (yrs),Mono/DC,5,0.17538694182529796
+DE baseline,35.0 (yrs),Granulocyte,5,0.7611111111111111
+DE baseline,35.0 (yrs),Megakaryocyte,5,0.22815639920270708
+DE baseline,35.0 (yrs),Baso/Mast,10,0.16981808202738435
+DE baseline,35.0 (yrs),Erythroid,10,0.292319957851645
+DE baseline,35.0 (yrs),Lymphoid,10,0.7390476190476191
+DE baseline,35.0 (yrs),Mono/DC,10,0.28175274269109885
+DE baseline,35.0 (yrs),Granulocyte,10,0.8284908065790418
+DE baseline,35.0 (yrs),Megakaryocyte,10,0.2500327727291056
+DE baseline,35.0 (yrs),Baso/Mast,25,0.15110932067785782
+DE baseline,35.0 (yrs),Erythroid,25,0.3978807256988673
+DE baseline,35.0 (yrs),Lymphoid,25,0.71681878925025
+DE baseline,35.0 (yrs),Mono/DC,25,0.21524788996415364
+DE baseline,35.0 (yrs),Granulocyte,25,0.8981110543411603
+DE baseline,35.0 (yrs),Megakaryocyte,25,0.11787037629674119
+DE baseline,35.0 (yrs),Baso/Mast,50,0.1367529147578967
+DE baseline,35.0 (yrs),Erythroid,50,0.38267697927958977
+DE baseline,35.0 (yrs),Lymphoid,50,0.7253553713562862
+DE baseline,35.0 (yrs),Mono/DC,50,0.26404839037462113
+DE baseline,35.0 (yrs),Granulocyte,50,0.8353512580869706
+DE baseline,35.0 (yrs),Megakaryocyte,50,0.12779883568925227
+DE baseline,45.0 (yrs),Baso/Mast,5,0.21179516685845798
+DE baseline,45.0 (yrs),Erythroid,5,0.4403263403263403
+DE baseline,45.0 (yrs),Lymphoid,5,0.7109090909090909
+DE baseline,45.0 (yrs),Mono/DC,5,0.12991746991746994
+DE baseline,45.0 (yrs),Granulocyte,5,0.6603174603174603
+DE baseline,45.0 (yrs),Megakaryocyte,5,0.30378466164629686
+DE baseline,45.0 (yrs),Baso/Mast,10,0.25296598931579956
+DE baseline,45.0 (yrs),Erythroid,10,0.4572207964449344
+DE baseline,45.0 (yrs),Lymphoid,10,0.6224376114081996
+DE baseline,45.0 (yrs),Mono/DC,10,0.17489772435424608
+DE baseline,45.0 (yrs),Granulocyte,10,0.8618650793650794
+DE baseline,45.0 (yrs),Megakaryocyte,10,0.30054060277016253
+DE baseline,45.0 (yrs),Baso/Mast,25,0.45613964797673434
+DE baseline,45.0 (yrs),Erythroid,25,0.6792925626307645
+DE baseline,45.0 (yrs),Lymphoid,25,0.7398839978893668
+DE baseline,45.0 (yrs),Mono/DC,25,0.3092805470434857
+DE baseline,45.0 (yrs),Granulocyte,25,0.7930588361617094
+DE baseline,45.0 (yrs),Megakaryocyte,25,0.21847405018124844
+DE baseline,45.0 (yrs),Baso/Mast,50,0.28818736046764976
+DE baseline,45.0 (yrs),Erythroid,50,0.6742406847954865
+DE baseline,45.0 (yrs),Lymphoid,50,0.6487184815130265
+DE baseline,45.0 (yrs),Mono/DC,50,0.3837149388717274
+DE baseline,45.0 (yrs),Granulocyte,50,0.6894847808537504
+DE baseline,45.0 (yrs),Megakaryocyte,50,0.2509399447051035
+DE baseline,53.0 (yrs),Baso/Mast,5,0.01587585966803964
+DE baseline,53.0 (yrs),Erythroid,5,0.3568831168831169
+DE baseline,53.0 (yrs),Lymphoid,5,0.4496969696969697
+DE baseline,53.0 (yrs),Mono/DC,5,0.3841575091575092
+DE baseline,53.0 (yrs),Granulocyte,5,0.6459090909090909
+DE baseline,53.0 (yrs),Megakaryocyte,5,0.15673131237055168
+DE baseline,53.0 (yrs),Baso/Mast,10,0.040235717441645905
+DE baseline,53.0 (yrs),Erythroid,10,0.6004906204906205
+DE baseline,53.0 (yrs),Lymphoid,10,0.5425588994338995
+DE baseline,53.0 (yrs),Mono/DC,10,0.3489167205343676
+DE baseline,53.0 (yrs),Granulocyte,10,0.9572979797979798
+DE baseline,53.0 (yrs),Megakaryocyte,10,0.16974707571281936
+DE baseline,53.0 (yrs),Baso/Mast,25,0.0920800285159022
+DE baseline,53.0 (yrs),Erythroid,25,0.774255410637566
+DE baseline,53.0 (yrs),Lymphoid,25,0.6711527214127085
+DE baseline,53.0 (yrs),Mono/DC,25,0.40678541828482184
+DE baseline,53.0 (yrs),Granulocyte,25,0.7460307740132555
+DE baseline,53.0 (yrs),Megakaryocyte,25,0.12688215880976966
+DE baseline,53.0 (yrs),Baso/Mast,50,0.06081080882729085
+DE baseline,53.0 (yrs),Erythroid,50,0.6938011851142127
+DE baseline,53.0 (yrs),Lymphoid,50,0.610839229943196
+DE baseline,53.0 (yrs),Mono/DC,50,0.37959987654919997
+DE baseline,53.0 (yrs),Granulocyte,50,0.6059541209530629
+DE baseline,53.0 (yrs),Megakaryocyte,50,0.10106852323176235
+DE baseline,62.0 (yrs),Baso/Mast,5,0.012021778584392014
+DE baseline,62.0 (yrs),Erythroid,5,0.3
+DE baseline,62.0 (yrs),Lymphoid,5,0.5238095238095238
+DE baseline,62.0 (yrs),Mono/DC,5,0.14204582651391162
+DE baseline,62.0 (yrs),Granulocyte,5,0.6190476190476191
+DE baseline,62.0 (yrs),Megakaryocyte,5,0.32474881984076653
+DE baseline,62.0 (yrs),Baso/Mast,10,0.006010889292196007
+DE baseline,62.0 (yrs),Erythroid,10,0.5170337301587302
+DE baseline,62.0 (yrs),Lymphoid,10,0.5366778142627039
+DE baseline,62.0 (yrs),Mono/DC,10,0.14984636726821426
+DE baseline,62.0 (yrs),Granulocyte,10,0.7206736538315486
+DE baseline,62.0 (yrs),Megakaryocyte,10,0.3228559719935208
+DE baseline,62.0 (yrs),Baso/Mast,25,0.03606199812065979
+DE baseline,62.0 (yrs),Erythroid,25,0.6876680649995011
+DE baseline,62.0 (yrs),Lymphoid,25,0.4481155519570643
+DE baseline,62.0 (yrs),Mono/DC,25,0.23213668686369868
+DE baseline,62.0 (yrs),Granulocyte,25,0.8075040299432209
+DE baseline,62.0 (yrs),Megakaryocyte,25,0.1712257149848465
+DE baseline,62.0 (yrs),Baso/Mast,50,0.06956974073029339
+DE baseline,62.0 (yrs),Erythroid,50,0.6527297140311891
+DE baseline,62.0 (yrs),Lymphoid,50,0.4717912015953767
+DE baseline,62.0 (yrs),Mono/DC,50,0.2182348505566998
+DE baseline,62.0 (yrs),Granulocyte,50,0.5793949380258369
+DE baseline,62.0 (yrs),Megakaryocyte,50,0.20823608978065045
+DE baseline,76.0 (yrs),Baso/Mast,5,0.016525096525096525
+DE baseline,76.0 (yrs),Erythroid,5,0.3604968944099379
+DE baseline,76.0 (yrs),Lymphoid,5,0.3001587301587302
+DE baseline,76.0 (yrs),Mono/DC,5,0.2688242526404802
+DE baseline,76.0 (yrs),Granulocyte,5,0.8266666666666668
+DE baseline,76.0 (yrs),Megakaryocyte,5,0.46869565217391307
+DE baseline,76.0 (yrs),Baso/Mast,10,0.0227967527967528
+DE baseline,76.0 (yrs),Erythroid,10,0.3689221548855416
+DE baseline,76.0 (yrs),Lymphoid,10,0.22005980784451862
+DE baseline,76.0 (yrs),Mono/DC,10,0.20674325181238545
+DE baseline,76.0 (yrs),Granulocyte,10,0.5896789404340892
+DE baseline,76.0 (yrs),Megakaryocyte,10,0.44765556068430057
+DE baseline,76.0 (yrs),Baso/Mast,25,0.13186533431694722
+DE baseline,76.0 (yrs),Erythroid,25,0.6897694918601425
+DE baseline,76.0 (yrs),Lymphoid,25,0.26265563146713444
+DE baseline,76.0 (yrs),Mono/DC,25,0.18355172205719264
+DE baseline,76.0 (yrs),Granulocyte,25,0.4462950996300025
+DE baseline,76.0 (yrs),Megakaryocyte,25,0.45983664314205086
+DE baseline,76.0 (yrs),Baso/Mast,50,0.08322528555250881
+DE baseline,76.0 (yrs),Erythroid,50,0.615479055064131
+DE baseline,76.0 (yrs),Lymphoid,50,0.2614016476356835
+DE baseline,76.0 (yrs),Mono/DC,50,0.14207763065579251
+DE baseline,76.0 (yrs),Granulocyte,50,0.36491765702591444
+DE baseline,76.0 (yrs),Megakaryocyte,50,0.38504025554113014
+DE baseline,77.0 (yrs),Baso/Mast,5,0.05553155333672448
+DE baseline,77.0 (yrs),Erythroid,5,0.5615204678362573
+DE baseline,77.0 (yrs),Lymphoid,5,0.4613081617086194
+DE baseline,77.0 (yrs),Mono/DC,5,0.22902380952380952
+DE baseline,77.0 (yrs),Granulocyte,5,0.7075757575757575
+DE baseline,77.0 (yrs),Megakaryocyte,5,0.9111111111111111
+DE baseline,77.0 (yrs),Baso/Mast,10,0.20975427652128759
+DE baseline,77.0 (yrs),Erythroid,10,0.5883558160106148
+DE baseline,77.0 (yrs),Lymphoid,10,0.3435315189701801
+DE baseline,77.0 (yrs),Mono/DC,10,0.19068526439525157
+DE baseline,77.0 (yrs),Granulocyte,10,0.5846789907185445
+DE baseline,77.0 (yrs),Megakaryocyte,10,0.4867135501033806
+DE baseline,77.0 (yrs),Baso/Mast,25,0.19793736115702437
+DE baseline,77.0 (yrs),Erythroid,25,0.698531947507067
+DE baseline,77.0 (yrs),Lymphoid,25,0.2594916919637283
+DE baseline,77.0 (yrs),Mono/DC,25,0.1975863642527333
+DE baseline,77.0 (yrs),Granulocyte,25,0.675904173838758
+DE baseline,77.0 (yrs),Megakaryocyte,25,0.3614769749613382
+DE baseline,77.0 (yrs),Baso/Mast,50,0.10753162816776976
+DE baseline,77.0 (yrs),Erythroid,50,0.7055140003924921
+DE baseline,77.0 (yrs),Lymphoid,50,0.20034692274009522
+DE baseline,77.0 (yrs),Mono/DC,50,0.28069275627806517
+DE baseline,77.0 (yrs),Granulocyte,50,0.5629325765949155
+DE baseline,77.0 (yrs),Megakaryocyte,50,0.29676229514014885
+DE baseline,10.0 (wks),Baso/Mast,5,0.8
+DE baseline,10.0 (wks),Erythroid,5,0.6244186046511627
+DE baseline,10.0 (wks),Lymphoid,5,0.2570454545454545
+DE baseline,10.0 (wks),Mono/DC,5,0.16245086894174116
+DE baseline,10.0 (wks),Granulocyte,5,0.5991666666666666
+DE baseline,10.0 (wks),Megakaryocyte,5,0.00325551001009921
+DE baseline,10.0 (wks),Baso/Mast,10,0.7087667224080267
+DE baseline,10.0 (wks),Erythroid,10,0.4491873031291502
+DE baseline,10.0 (wks),Lymphoid,10,0.31886658650722044
+DE baseline,10.0 (wks),Mono/DC,10,0.2953732045653732
+DE baseline,10.0 (wks),Granulocyte,10,0.79625
+DE baseline,10.0 (wks),Megakaryocyte,10,0.013507306366294056
+DE baseline,10.0 (wks),Baso/Mast,25,0.48118226857632673
+DE baseline,10.0 (wks),Erythroid,25,0.3402281350094091
+DE baseline,10.0 (wks),Lymphoid,25,0.34789890802659834
+DE baseline,10.0 (wks),Mono/DC,25,0.5427842844008197
+DE baseline,10.0 (wks),Granulocyte,25,0.5793744612179845
+DE baseline,10.0 (wks),Megakaryocyte,25,0.07467609469295308
+DE baseline,10.0 (wks),Baso/Mast,50,0.39137246615888566
+DE baseline,10.0 (wks),Erythroid,50,0.27838956661500275
+DE baseline,10.0 (wks),Lymphoid,50,0.47104698042146864
+DE baseline,10.0 (wks),Mono/DC,50,0.7262549025460708
+DE baseline,10.0 (wks),Granulocyte,50,0.5207654647773784
+DE baseline,10.0 (wks),Megakaryocyte,50,0.08752829757192156
+DE baseline,11.0 (wks),Baso/Mast,5,0.7647169811320754
+DE baseline,11.0 (wks),Erythroid,5,0.5607304485907105
+DE baseline,11.0 (wks),Lymphoid,5,0.6102564102564102
+DE baseline,11.0 (wks),Mono/DC,5,0.13258273984080435
+DE baseline,11.0 (wks),Granulocyte,5,0.5733333333333334
+DE baseline,11.0 (wks),Megakaryocyte,5,0.00067299606498867
+DE baseline,11.0 (wks),Baso/Mast,10,0.7203533447684392
+DE baseline,11.0 (wks),Erythroid,10,0.4306076706053372
+DE baseline,11.0 (wks),Lymphoid,10,0.4257755771045269
+DE baseline,11.0 (wks),Mono/DC,10,0.3494986435309016
+DE baseline,11.0 (wks),Granulocyte,10,0.7518333333333334
+DE baseline,11.0 (wks),Megakaryocyte,10,0.025563226580905245
+DE baseline,11.0 (wks),Baso/Mast,25,0.42854991804557907
+DE baseline,11.0 (wks),Erythroid,25,0.3091838370021632
+DE baseline,11.0 (wks),Lymphoid,25,0.4272930593005653
+DE baseline,11.0 (wks),Mono/DC,25,0.5694537815579251
+DE baseline,11.0 (wks),Granulocyte,25,0.41637349562382187
+DE baseline,11.0 (wks),Megakaryocyte,25,0.04467130924956544
+DE baseline,11.0 (wks),Baso/Mast,50,0.3959565601330749
+DE baseline,11.0 (wks),Erythroid,50,0.270035713717885
+DE baseline,11.0 (wks),Lymphoid,50,0.5080432500360432
+DE baseline,11.0 (wks),Mono/DC,50,0.6166971804660776
+DE baseline,11.0 (wks),Granulocyte,50,0.27926974208485944
+DE baseline,11.0 (wks),Megakaryocyte,50,0.07127564322665635
+DE baseline,13.0 (wks),Baso/Mast,5,0.627079218784288
+DE baseline,13.0 (wks),Erythroid,5,0.9266666666666667
+DE baseline,13.0 (wks),Lymphoid,5,0.6626373626373626
+DE baseline,13.0 (wks),Mono/DC,5,0.10613878246062154
+DE baseline,13.0 (wks),Granulocyte,5,0.6914285714285715
+DE baseline,13.0 (wks),Megakaryocyte,5,0.11013921517884591
+DE baseline,13.0 (wks),Baso/Mast,10,0.5066305163831237
+DE baseline,13.0 (wks),Erythroid,10,0.7836134453781513
+DE baseline,13.0 (wks),Lymphoid,10,0.49438626305948785
+DE baseline,13.0 (wks),Mono/DC,10,0.20253602556839095
+DE baseline,13.0 (wks),Granulocyte,10,0.906461038961039
+DE baseline,13.0 (wks),Megakaryocyte,10,0.21256778624613148
+DE baseline,13.0 (wks),Baso/Mast,25,0.4100073681216345
+DE baseline,13.0 (wks),Erythroid,25,0.44153613740090075
+DE baseline,13.0 (wks),Lymphoid,25,0.4787046879942748
+DE baseline,13.0 (wks),Mono/DC,25,0.4332658458471395
+DE baseline,13.0 (wks),Granulocyte,25,0.6354712170328469
+DE baseline,13.0 (wks),Megakaryocyte,25,0.2896106473778659
+DE baseline,13.0 (wks),Baso/Mast,50,0.30037067267435685
+DE baseline,13.0 (wks),Erythroid,50,0.3214699530450891
+DE baseline,13.0 (wks),Lymphoid,50,0.5369955820918091
+DE baseline,13.0 (wks),Mono/DC,50,0.46505991406171954
+DE baseline,13.0 (wks),Granulocyte,50,0.3935930710067506
+DE baseline,13.0 (wks),Megakaryocyte,50,0.2629179001859912
+DE baseline,14.0 (wks),Baso/Mast,5,0.76
+DE baseline,14.0 (wks),Erythroid,5,0.5445378151260505
+DE baseline,14.0 (wks),Lymphoid,5,0.3386772486772487
+DE baseline,14.0 (wks),Mono/DC,5,0.06512790115398215
+DE baseline,14.0 (wks),Granulocyte,5,0.7766666666666666
+DE baseline,14.0 (wks),Megakaryocyte,5,0.08333333333333333
+DE baseline,14.0 (wks),Baso/Mast,10,0.49329306352562163
+DE baseline,14.0 (wks),Erythroid,10,0.45848536188669015
+DE baseline,14.0 (wks),Lymphoid,10,0.28816394987802174
+DE baseline,14.0 (wks),Mono/DC,10,0.23633864381633768
+DE baseline,14.0 (wks),Granulocyte,10,0.7566452050774084
+DE baseline,14.0 (wks),Megakaryocyte,10,0.04898373983739837
+DE baseline,14.0 (wks),Baso/Mast,25,0.31435008196118125
+DE baseline,14.0 (wks),Erythroid,25,0.3666843542033435
+DE baseline,14.0 (wks),Lymphoid,25,0.30009819556877854
+DE baseline,14.0 (wks),Mono/DC,25,0.47146555962282455
+DE baseline,14.0 (wks),Granulocyte,25,0.5418805781755085
+DE baseline,14.0 (wks),Megakaryocyte,25,0.03502063978094927
+DE baseline,14.0 (wks),Baso/Mast,50,0.23079080562441906
+DE baseline,14.0 (wks),Erythroid,50,0.24473635404985258
+DE baseline,14.0 (wks),Lymphoid,50,0.4173154436285034
+DE baseline,14.0 (wks),Mono/DC,50,0.4638702538219544
+DE baseline,14.0 (wks),Granulocyte,50,0.3801959356081687
+DE baseline,14.0 (wks),Megakaryocyte,50,0.03114766404795425
+DE baseline,15.0 (wks),Baso/Mast,5,0.65
+DE baseline,15.0 (wks),Erythroid,5,0.20481935455466033
+DE baseline,15.0 (wks),Lymphoid,5,0.2896103896103896
+DE baseline,15.0 (wks),Mono/DC,5,0.11423167475799054
+DE baseline,15.0 (wks),Granulocyte,5,0.6934782608695652
+DE baseline,15.0 (wks),Megakaryocyte,5,0.012485681557846507
+DE baseline,15.0 (wks),Baso/Mast,10,0.8732142857142857
+DE baseline,15.0 (wks),Erythroid,10,0.4133366777081105
+DE baseline,15.0 (wks),Lymphoid,10,0.2251596101267154
+DE baseline,15.0 (wks),Mono/DC,10,0.218076806234701
+DE baseline,15.0 (wks),Granulocyte,10,0.5940268366898802
+DE baseline,15.0 (wks),Megakaryocyte,10,0.0074485523561243425
+DE baseline,15.0 (wks),Baso/Mast,25,0.6281303426418614
+DE baseline,15.0 (wks),Erythroid,25,0.17642717834452984
+DE baseline,15.0 (wks),Lymphoid,25,0.26225844680701405
+DE baseline,15.0 (wks),Mono/DC,25,0.4661319060601267
+DE baseline,15.0 (wks),Granulocyte,25,0.37744308548476524
+DE baseline,15.0 (wks),Megakaryocyte,25,0.018005057614627205
+DE baseline,15.0 (wks),Baso/Mast,50,0.5312632795399186
+DE baseline,15.0 (wks),Erythroid,50,0.1248785172077376
+DE baseline,15.0 (wks),Lymphoid,50,0.33938806643767194
+DE baseline,15.0 (wks),Mono/DC,50,0.5590097440209333
+DE baseline,15.0 (wks),Granulocyte,50,0.34078151847394417
+DE baseline,15.0 (wks),Megakaryocyte,50,0.08005222476405034
+DE baseline,20.0 (wks),Baso/Mast,5,0.21909947482236639
+DE baseline,20.0 (wks),Erythroid,5,0.8588235294117647
+DE baseline,20.0 (wks),Lymphoid,5,0.09256942440738389
+DE baseline,20.0 (wks),Mono/DC,5,0.09368070953436806
+DE baseline,20.0 (wks),Granulocyte,5,0.40917982488962057
+DE baseline,20.0 (wks),Megakaryocyte,5,0.2757240608853512
+DE baseline,20.0 (wks),Baso/Mast,10,0.2952572072936973
+DE baseline,20.0 (wks),Erythroid,10,0.6496946191063838
+DE baseline,20.0 (wks),Lymphoid,10,0.1277986310668036
+DE baseline,20.0 (wks),Mono/DC,10,0.05055094267851544
+DE baseline,20.0 (wks),Granulocyte,10,0.3971586514098596
+DE baseline,20.0 (wks),Megakaryocyte,10,0.1958232090490155
+DE baseline,20.0 (wks),Baso/Mast,25,0.32595105372626454
+DE baseline,20.0 (wks),Erythroid,25,0.6204671271907533
+DE baseline,20.0 (wks),Lymphoid,25,0.17609430210952476
+DE baseline,20.0 (wks),Mono/DC,25,0.04647302907590684
+DE baseline,20.0 (wks),Granulocyte,25,0.25736218063167227
+DE baseline,20.0 (wks),Megakaryocyte,25,0.0835214303843656
+DE baseline,20.0 (wks),Baso/Mast,50,0.32907934846418463
+DE baseline,20.0 (wks),Erythroid,50,0.5280051778041297
+DE baseline,20.0 (wks),Lymphoid,50,0.2275585290024774
+DE baseline,20.0 (wks),Mono/DC,50,0.04620094721320224
+DE baseline,20.0 (wks),Granulocyte,50,0.19072651606558627
+DE baseline,20.0 (wks),Megakaryocyte,50,0.07320013219390661
+DE baseline,22.0 (wks),Baso/Mast,5,0.5258333333333333
+DE baseline,22.0 (wks),Erythroid,5,0.9428571428571428
+DE baseline,22.0 (wks),Lymphoid,5,0.15690034103827208
+DE baseline,22.0 (wks),Mono/DC,5,0.42512820512820515
+DE baseline,22.0 (wks),Granulocyte,5,0.23916640556283292
+DE baseline,22.0 (wks),Megakaryocyte,5,0.05087912087912087
+DE baseline,22.0 (wks),Baso/Mast,10,0.4972585439829686
+DE baseline,22.0 (wks),Erythroid,10,0.6928872955715861
+DE baseline,22.0 (wks),Lymphoid,10,0.2542031510176887
+DE baseline,22.0 (wks),Mono/DC,10,0.27419712994181644
+DE baseline,22.0 (wks),Granulocyte,10,0.27387289825713046
+DE baseline,22.0 (wks),Megakaryocyte,10,0.32757181415076153
+DE baseline,22.0 (wks),Baso/Mast,25,0.38287931307832346
+DE baseline,22.0 (wks),Erythroid,25,0.5909986251432582
+DE baseline,22.0 (wks),Lymphoid,25,0.28604185142285915
+DE baseline,22.0 (wks),Mono/DC,25,0.350091693176219
+DE baseline,22.0 (wks),Granulocyte,25,0.16882952961335054
+DE baseline,22.0 (wks),Megakaryocyte,25,0.13315361340421167
+DE baseline,22.0 (wks),Baso/Mast,50,0.2926781560975789
+DE baseline,22.0 (wks),Erythroid,50,0.4971373745918277
+DE baseline,22.0 (wks),Lymphoid,50,0.24171245444696343
+DE baseline,22.0 (wks),Mono/DC,50,0.2783257352419918
+DE baseline,22.0 (wks),Granulocyte,50,0.12431364301088242
+DE baseline,22.0 (wks),Megakaryocyte,50,0.08220029214860305
+DE baseline,23.0 (wks),Baso/Mast,5,0.06564578952449308
+DE baseline,23.0 (wks),Erythroid,5,0.9111111111111111
+DE baseline,23.0 (wks),Lymphoid,5,0.1742135642135642
+DE baseline,23.0 (wks),Mono/DC,5,0.2303636275173277
+DE baseline,23.0 (wks),Granulocyte,5,0.20647121210034297
+DE baseline,23.0 (wks),Megakaryocyte,5,0.38955026455026454
+DE baseline,23.0 (wks),Baso/Mast,10,0.1690632402038347
+DE baseline,23.0 (wks),Erythroid,10,0.7651694139194138
+DE baseline,23.0 (wks),Lymphoid,10,0.27213488705926986
+DE baseline,23.0 (wks),Mono/DC,10,0.1880460751238034
+DE baseline,23.0 (wks),Granulocyte,10,0.19300667372891178
+DE baseline,23.0 (wks),Megakaryocyte,10,0.24847010631894353
+DE baseline,23.0 (wks),Baso/Mast,25,0.10187996976071358
+DE baseline,23.0 (wks),Erythroid,25,0.47669896673606893
+DE baseline,23.0 (wks),Lymphoid,25,0.24375226899752545
+DE baseline,23.0 (wks),Mono/DC,25,0.18479844395044365
+DE baseline,23.0 (wks),Granulocyte,25,0.22207874314493897
+DE baseline,23.0 (wks),Megakaryocyte,25,0.21322403836864529
+DE baseline,23.0 (wks),Baso/Mast,50,0.08246641713402411
+DE baseline,23.0 (wks),Erythroid,50,0.46372684699321903
+DE baseline,23.0 (wks),Lymphoid,50,0.31005876816368233
+DE baseline,23.0 (wks),Mono/DC,50,0.21747141518462226
+DE baseline,23.0 (wks),Granulocyte,50,0.11462812179661018
+DE baseline,23.0 (wks),Megakaryocyte,50,0.13627170496370605
