@@ -1,17 +1,17 @@
+## Ran with python-3.13.2, gcc-13.3
 import os
-import numpy as np
 import sys
-import jax
+import jax #==0.6.0
 import jax.numpy as jnp
-import jax.random as random
-import numpy as np
+import numpy as np #=2.1.1
 
-import sde_sim
-import anndata
+import sde_simulator as sde_sim
+import anndata #==0.11.3
+from gstatot import StatOT
 
 
 jax.config.update('jax_platform_name', 'cpu')
-sys.path.append('../')
+
 if len(sys.argv) > 1:
     sim_num = int(sys.argv[1])
 else:
@@ -30,7 +30,7 @@ get_traj = True
 get_fate_probs = True
 run_sim = True
 
-data_folder = f"/extra/data/sim_data/{sim_name}/"
+data_folder = f"../extra/data/sim_data/"
 os.makedirs(data_folder, exist_ok=True)
 
 sde_sim_parameters = {
@@ -123,9 +123,6 @@ if run_sim:
     X0 = jnp.zeros((num_progenitors,dim))
     S.sim_sde(X0=X0, t0=0, verbose=True, fixed_birth=True, exact=False, fixed_point=None)
 
-    sde_sim.animate_3d(S.sim_time_series, S.sim_time, lims=[[-0.05, 2], [-3, 3], [-1.5, 1.5]] , 
-                       dur=1, output_folder=data_folder, name=f"{sim_name}_3d_anim")
-
     # format data into anndata
 
     X = np.concatenate(S.sim_time_series, axis=0)
@@ -215,14 +212,13 @@ if get_traj:
 
 
 if get_fate_probs:
-    from testing import statot
 
     adata_keys  = {'time_key': 'age',
                'cell_type_key': 'cell_type',
                'growth_rate_key': 'growth_rate',
                'embed_key': 'X_pca'}
 
-    sOT = statot.statOT(adata=sim_adata, adata_keys=adata_keys, 
+    sOT = StatOT(adata=sim_adata, adata_keys=adata_keys, 
                         dt=sde_sim_parameters['time_step'], dtype=jnp.float32)
     
     sOT_params = {'epsilon': 0.01,
