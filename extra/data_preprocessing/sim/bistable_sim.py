@@ -30,7 +30,7 @@ get_traj = True
 get_fate_probs = True
 run_sim = True
 
-data_folder = f"../extra/data/sim_data/"
+data_folder = f"../../data/sim_data/"
 os.makedirs(data_folder, exist_ok=True)
 
 sde_sim_parameters = {
