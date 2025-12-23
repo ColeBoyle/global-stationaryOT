@@ -4,3 +4,5 @@ __pycache__/**
 *.h5ad
 *.gz
 *.egg-info/
+
+!fig_1_data.h5ad
