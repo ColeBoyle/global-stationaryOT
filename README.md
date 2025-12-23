@@ -13,6 +13,9 @@ We highly recommend installing [JAX](https://github.com/google/jax#installation)
 ```bash
 cd global-stationaryOT && pip install -e .[cuda12]
 ```
+## Example Notebooks
+Example notebooks demonstrating the use of Global StationaryOT on simulated and real data can be found in the [examples](examples/) directory. Simulated data and preprocessed hematopoiesis data can be downloaded from ... or generated using the scripts and notebooks in the [extra/data](extra/data_preprocessing) directory.
+
 ## Usage
 
 
@@ -79,6 +82,13 @@ dg_id.plot_top_corr_over_age(fate_names=['lymphocyte'], n_top_genes=5)
 This function forms a set of the top correlated genes at each age for the specified fates, and plots their correlation trends. Hence, the plot may contain more than ```n_top_genes``` genes if the top genes vary over age.
 
 
-## Example Notebooks
-Example notebooks demonstrating the use of Global StationaryOT on simulated and real data can be found in the [examples](examples/) directory.
+## Paper & Citation
+Please see our [paper](https://www.biorxiv.org/content/10.64898/2025.12.18.694987v1) for a detailed description of the method of our method.
+
+Citation:
+
+Cole Boyle, Elias Ventre, Geoffrey Schiebinger. Global StationaryOT: Trajectory inference for aging time courses of single-cell snapshots. bioRxiv. 2025. https://doi.org/10.64898/2025.12.18.694987
+
+#### Results & Figure Reproduction
+Scripts and notebooks to reproduce the figures from the main text can be found in the [extra/figures](extra/figures/) directory. The figures were generated using Python 3.13; the specific package versions for the required libraries can found in [extra/figures/requirements.txt](extra/figures/requirements.txt). The simulated data and preprocessed hematopoiesis data can be downloaded from ... or generated using the scripts and notebooks in the [extra/data](extra/data_preprocessing) directory.
 
