@@ -14,10 +14,11 @@ authors = [
 ]
 
 dependencies = [
-  "jax == 0.7.1",
+  "jax >= 0.6.0, < 0.7.1",
   "jaxopt == 0.8.3",
   "ott-jax == 0.5.1",
-  "scanpy",
+  "scanpy >= 1.11.1",
+  "anndata >= 0.11.3",
   "xarray",
   "pot",
   "scipy",
