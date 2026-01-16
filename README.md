@@ -14,7 +14,7 @@ We highly recommend installing [JAX](https://github.com/google/jax#installation)
 cd global-stationaryOT && pip install -e .[cuda12]
 ```
 ## Example Notebooks
-Example notebooks demonstrating the use of Global StationaryOT on simulated and real data can be found in the [examples](examples/) directory. Simulated data and preprocessed hematopoiesis data can be downloaded from ... or generated using the scripts and notebooks in the [extra/data](extra/data_preprocessing) directory.
+Example notebooks demonstrating the use of Global StationaryOT on simulated and real data can be found in the [examples](examples/) directory. Simulated data and preprocessed hematopoiesis data can be downloaded [here](https://doi.org/10.5281/zenodo.18121450) or generated using the scripts and notebooks in the [extra/data](extra/data_preprocessing) directory.
 
 ## Usage
 
@@ -90,5 +90,5 @@ Citation:
 Cole Boyle, Elias Ventre, Geoffrey Schiebinger. Global StationaryOT: Trajectory inference for aging time courses of single-cell snapshots. bioRxiv. 2025. https://doi.org/10.64898/2025.12.18.694987
 
 #### Results & Figure Reproduction
-Scripts and notebooks to reproduce the figures from the main text can be found in the [extra/figures](extra/figures/) directory. The figures were generated using Python 3.13; the specific package versions for the required libraries can found in [extra/figures/requirements.txt](extra/figures/requirements.txt). The simulated data and preprocessed hematopoiesis data can be downloaded from ... or generated using the scripts and notebooks in the [extra/data](extra/data_preprocessing) directory.
+Scripts and notebooks to reproduce the figures from the main text can be found in the [extra/figures](extra/figures/) directory. The figures were generated using Python 3.13; the specific package versions for the required libraries can found in [extra/figures/requirements.txt](extra/figures/requirements.txt). The simulated data and preprocessed hematopoiesis data can be downloaded at https://doi.org/10.5281/zenodo.18121450 or generated using the scripts and notebooks in the [extra/data](extra/data_preprocessing) directory.
 
