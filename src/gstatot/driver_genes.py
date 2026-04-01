@@ -69,7 +69,7 @@ class gene_selection:
                 adata_a = self.adata[:, self.genes_idx]
                 expr = jnp.asarray(adata_a.X.toarray(), dtype=jnp.float32)
                 fp = jnp.asarray(adata_a.obsm[f'{label_key}_fp_t={age}'], dtype=jnp.float32)
-                weights = jnp.asarray(adata_a.obsp[f'pi_{age}'], dtype=jnp.float32).sum(axis=1)
+                weights = jnp.asarray(adata_a.obsp[f'pi_{age}'], dtype=jnp.float32).sum(axis=0)
                 # remove nan rows from fp (occurs when fp calculated with HDR_cutoff > 0)
                 valid_idx = ~jnp.isnan(fp).any(axis=1)
                 expr = expr[valid_idx]
