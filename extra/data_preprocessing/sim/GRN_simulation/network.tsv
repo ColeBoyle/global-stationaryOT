@@ -1,0 +1,11 @@
+Gene	Rule
+G	( tf1 ) and not ( tf2 or tf3 or tf4 )
+tf1	not ( tf2 )
+tf2	( tf1 or tf2 ) and not ( tf3 )
+tf3	( tf3 or tf2 ) and not ( tf4 )
+tf4	( tf4 or tf3 ) and not ( tfB1 or tfB2 )
+tfB1	( tfB1 or tf4 ) and not ( tfB2 )
+tfB2	( tfB2 or tf4 ) and not ( tfB1 )
+tfB11	( tfB11 or tfB1 )
+tfB22	( tfB22 or tfB2 )
+D	( tfB11 or tfB22 or D)

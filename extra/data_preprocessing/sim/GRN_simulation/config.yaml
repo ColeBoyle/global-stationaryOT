@@ -1,0 +1,41 @@
+## This is an example file describing all possible user configurations for BoolODE
+## BoolODE requires three types of configuration:
+## 1. global_settings: Define paths to model files and BoolODE settings
+## 2. jobs: list specifying each simulations to perform
+## 3. post_processing: Specify the type of post processing to perform on BoolODE simulation output
+
+## NOTE: This file is merely an example that documents all the possible fields
+##       that users can specify. Using this file as input to BoolODE will not
+##       necessarily give meaningful results.
+default_job: &default_job
+  model_definition: "network.tsv"
+  simulation_time: 5
+  num_cells: 1
+  do_parallel: False
+  save_y0: True
+  model_initial_conditions: "ics.tsv"
+
+global_settings:
+  ## Path to folder containing Boolean model definition files
+  model_dir: "./"
+  
+  ## Path to output folder. This folder is created if it doesn't exist
+  output_dir: "./sims"
+  
+  ## Do BoolODE model generation and SDE simulations? 
+  do_simulations: True
+
+  ## Do post processing on simulation output? This requires that the simulations be run first
+  do_post_processing: False
+  
+  ## Type of equations to use for the activation function. One of ['hill','heaviside']  
+  modeltype: 'hill'          
+
+jobs:
+  - name: "default_simulation"
+    <<: *default_job
+    interaction_strengths: "default_strengths.tsv"
+
+post_processing:
+
+  Dropouts:

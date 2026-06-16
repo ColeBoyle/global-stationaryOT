@@ -4,5 +4,19 @@ __pycache__/**
 *.h5ad
 *.gz
 *.egg-info/
+*.npy
+extra/gWOT_comparison/.torch_venv
+extra/validation/**/*.csv
+extra/validation/**/*.png
+extra/sweeps/**/*.csv
+extra/sweeps/**/*.png
+!extra/sweeps/**/*opt_vals_postnatal.csv
+!extra/sweeps/**/*opt_vals_prenatal.csv
+!extra/sweeps/**/*opt_vals_postnatal_n.csv
+!extra/sweeps/**/*opt_vals_prenatal_n.csv
+!extra/sweeps/**/*opt_vals_sim.csv
+!extra/sweeps/hemo/sweep_res/integrated_n_validation/*csv
+!extra/sweeps/hemo/sweep_res/integrated_T_validation/*csv
+
 
 !fig_1_data.h5ad

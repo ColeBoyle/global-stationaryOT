@@ -1,0 +1,8 @@
+Gene1	Gene2	Strength
+tf2	tf2	0.8
+tf3	tf3	0.8
+tf4	tf4	0.8
+tfB1	tf4	1.0
+tfB2	tf4	0.9
+tfB1	tfB2	0.5
+tfB2	tfB1	0.5
