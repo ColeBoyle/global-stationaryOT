@@ -13,6 +13,16 @@ We highly recommend installing [JAX](https://github.com/google/jax#installation)
 ```bash
 cd global-stationaryOT && pip install -e .[cuda12]
 ```
+### Requirements
+The package requires Python 3.13.7 and the following libraries:
+- [JAX](https://github.com/jax-ml/jax#installation)  (tested with jax==0.6.0)
+- [optax](https://github.com/google-deepmind/optax) (tested with optax==0.2.8)
+- [scanpy](https://github.com/scverse/scanpy) (tested with scanpy==1.12.1)
+- [ott-jax](https://github.com/ott-jax/ott) (tested with ott-jax==0.5.1, needed to run StatOT)
+- [xarray](https://github.com/pydata/xarray) (tested with xarray==2026.4.0, needed to run the ```gene_selection``` module)
+
+All of the required libraries are installed with the previous pip install commands. Running the notebooks in the [examples](examples/) also requires the [ipykernel](https://pypi.org/project/ipykernel/) library.
+
 ## Example Notebooks
 Example notebooks demonstrating the use of Global StationaryOT on simulated and real data can be found in the [examples](examples/) directory. Simulated data and preprocessed hematopoiesis data can be downloaded [here](https://doi.org/10.5281/zenodo.20723235) or generated using the scripts and notebooks in the [extra/data](extra/data_preprocessing) directory.
 
