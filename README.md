@@ -23,10 +23,17 @@ The package requires Python 3.13.7 and the following libraries:
 
 All of the required libraries are installed with the previous pip install commands. Running the notebooks in the [examples](examples/) also requires the [ipykernel](https://pypi.org/project/ipykernel/) library.
 
-## Example Notebooks
-Example notebooks demonstrating the use of Global StationaryOT on simulated and real data can be found in the [examples](examples/) directory. Simulated data and preprocessed hematopoiesis data can be downloaded [here](https://doi.org/10.5281/zenodo.20723235) or generated using the scripts and notebooks in the [extra/data](extra/data_preprocessing) directory.
 
 ## Usage
+
+### Example Notebooks
+Example notebooks demonstrating the use of Global StationaryOT on simulated and real data can be found in the [examples](examples/) directory. 
+
+- `example-sim.ipynb` details the use of Global StationaryOT on our first "Aging epigenetic landscape" simulated data with known ground truth trajectories and fate probabilities.
+- `example-GRN-sim.ipynb` demonstrates the use of Global StationaryOT on our second "Loss of cellular identity over age induced by epigenetic erosion" data simulated from a Boolean GRN model.
+- `example-hematopoiesis.ipynb` demonstrates the use of Global StationaryOT on the hematopoiesis dataset of Li et al. (2024).
+
+Simulated data and the preprocessed hematopoiesis data needed to run the notebooks can be downloaded [here](https://doi.org/10.5281/zenodo.20723235) or generated using the scripts and notebooks in the [extra/data](extra/data_preprocessing) directory.
 
 
 ### Minimal Inputs
