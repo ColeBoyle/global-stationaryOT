@@ -13,9 +13,15 @@ We highly recommend installing [JAX](https://github.com/google/jax#installation)
 ```bash
 cd global-stationaryOT && pip install -e .[cuda12]
 ```
+or 
+```bash
+cd global-stationaryOT && pip install -e .[cuda13]
+```
+depending on the CUDA version you have installed (12 or 13).
+
 ### Requirements
 The package requires Python 3.13.7 and the following libraries:
-- [JAX](https://github.com/jax-ml/jax#installation)  (tested with jax==0.6.0)
+- [JAX](https://github.com/jax-ml/jax#installation)  (tested with jax==0.6.0, 0.10.2)
 - [optax](https://github.com/google-deepmind/optax) (tested with optax==0.2.8)
 - [scanpy](https://github.com/scverse/scanpy) (tested with scanpy==1.12.1)
 - [ott-jax](https://github.com/ott-jax/ott) (tested with ott-jax==0.5.1, needed to run StatOT)

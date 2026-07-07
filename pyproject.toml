@@ -14,12 +14,14 @@ authors = [
 ]
 
 dependencies = [
-  "jax == 0.6.0",
+  "jax >= 0.6.0",
   "ott-jax == 0.5.1",
   "scanpy == 1.12.1",
   "optax == 0.2.8",
   "xarray == 2026.4.0",
   "POT == 0.9.6.post1",
+  "anndata == 0.12.16",
+  "ipykernel"
 ]
 
 classifiers = [
@@ -31,6 +33,9 @@ classifiers = [
 [project.optional-dependencies]
 cuda12 = [
     "jax[cuda12]",
+]
+cuda13 = [
+    "jax[cuda13]",
 ]
 
 [tool.setuptools]
