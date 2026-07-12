@@ -33,7 +33,10 @@ def l2_dist(x, y, z, w):
 
 @jit
 def vmap_sq_dist(X, Z):
-    return jax.vmap(jax.vmap(sq_dist, in_axes=(0, None)), in_axes=(None, 0))(X, Z)
+    X_sq_norms = jnp.sum(X * X, axis=1)
+    Z_sq_norms = jnp.sum(Z * Z, axis=1)
+    squared_distances = Z_sq_norms[:, None] + X_sq_norms[None, :] - 2 * Z @ X.T
+    return jnp.maximum(squared_distances, 0)
 
 @jit
 def vmap_sq_dist_4(X, Y, Z, W):

@@ -350,7 +350,7 @@ class jaxSolver:
         r = self.r
 
         inner_iter = solver_kwargs.get('inner_iter', 100)
-        @jit
+
         def inner_body_fn(i, val):
             psi, phi, gamma, rho, h, f, state = val
             psi_np1, phi_np1, rho_np1, gamma_np1, h_np1, f_np1, state = BCA_step(i, psi, phi, gamma, rho, h, f, col_t, 
@@ -361,7 +361,8 @@ class jaxSolver:
             return psi_np1, phi_np1, gamma_np1, rho_np1, h_np1, f_np1, state
 
         @jit
-        def run_outer_optimization(init_val, max_iter=100, tol=1e-3, inner_iter=100):
+        def run_outer_optimization(init_val, C, col_t, g, lam, w, epsilon1, epsilon2, epsilon3, r, 
+                                   max_iter=100, tol=1e-3, inner_iter=100):
 
             def cond_fn(loop_state):
                 i, gap, *rest = loop_state
@@ -394,8 +395,18 @@ class jaxSolver:
             init_loop_state = (0, init_gap, psi, phi, gamma, rho, h, f, state)
 
             final_loop_state = jax.lax.while_loop(cond_fn, body_fn_outer, init_loop_state)
+            iter, gap, psi, phi, gamma, rho, h, f, state = final_loop_state
 
-            return final_loop_state
+            pi_array = pi_vmap(direct_sum_vmap(f, -g * f), 
+                               jnp.concatenate([lam * psi, jnp.zeros((1, self.n))]), 
+                               jnp.concatenate([jnp.zeros((1, self.n)), lam * phi]), 
+                               h, r*C, w * gamma, 
+                               self.epsilon2)
+
+            max_error = self.test_constraints_vmap(pi_array)
+            Y = jnp.concatenate([psi.ravel(), phi.ravel(), f.ravel(), gamma.ravel(), rho.ravel(), h.ravel()])
+
+            return Y, pi_array, gap, iter, max_error
         
         if Y0 is None:
             Y0 = 0.01 * jax.random.normal(jax.random.PRNGKey(0), shape=(2*(self.T-1)*self.n + 3*(self.T * self.n) + self.T,), dtype=self.dtype) # random init
@@ -405,21 +416,12 @@ class jaxSolver:
         state_init = optimizer.init(f)
         init_val = (psi, phi, gamma, rho, h, f, state_init)
 
-        def run_opt():
-            val = run_outer_optimization(init_val, max_iter=max_iter, tol=constraint_tol, inner_iter=inner_iter)
-            i, gap, psi, phi, gamma, rho, h, f, state = val
-            Y = jnp.concatenate([psi.ravel(), phi.ravel(), gamma.ravel(), rho.ravel(), h.ravel(), f.ravel()])
-            pi_array = pi_vmap(direct_sum_vmap(f, -g * f), 
-                               jnp.concatenate([lam * psi, jnp.zeros((1, self.n))]), 
-                               jnp.concatenate([jnp.zeros((1, self.n)), lam * phi]), 
-                               h, r*C, w * gamma, 
-                               self.epsilon2)
-            max_error = self.test_constraints_vmap(pi_array)
+        print('Running BCA optimization...')
 
-            return Y, pi_array, gap, i, max_error
+        Y, pi_array, gap, i, max_error = run_outer_optimization(init_val, C, col_t, g, lam, w, epsilon1, epsilon2, epsilon3, r, 
+                                         max_iter=max_iter, tol=constraint_tol, inner_iter=inner_iter)
 
-        run_opt = jax.jit(run_opt)
-        return run_opt()
+        return Y, pi_array, gap, i, max_error
         
 
     # Deprecated LBFGS
