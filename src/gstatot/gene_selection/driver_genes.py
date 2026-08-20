@@ -1,3 +1,4 @@
+import os
 from tabnanny import verbose
 import jax
 import jax.numpy as jnp
@@ -286,7 +287,7 @@ class gene_selection:
 
         return top_genes_by_fate
 
-    def plot_top_corr_over_age(self, fate_names, n_top_genes=10, cell_types=None, only_TF=False, rank_by_abs_corr=False, smoothed=False, plot=True):
+    def plot_top_corr_over_age(self, fate_names, n_top_genes=10, cell_types=None, only_TF=False, rank_by_abs_corr=False, smoothed=False, plot=True, save_fig=False, fig_dir=None):
         cell_type_top_genes = {}
 
         for fate in fate_names:
@@ -321,7 +322,7 @@ class gene_selection:
                 else:
                     gene_corr_over_age = self.gene_corrs_xr.sel(gene=genes, fate=fate).values.T 
                     t = self.gene_corrs_xr.coords['age'].values
-                    sobolev_norms = self.results_df.loc[genes, fate, 'sobolev_norm'].values
+#                    sobolev_norms = self.results_df.loc[genes, fate, 'sobolev_norm'].values
                     marker = 'o'
     
                 fig, ax1 = plt.subplots( figsize=(6, 6))
@@ -343,7 +344,13 @@ class gene_selection:
                
                 ax1.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
                 ax1.grid()
-                plt.show()
+                if save_fig:
+                    if fig_dir is None:
+                        fig_dir = './figs'
+                    os.makedirs(fig_dir, exist_ok=True)
+                    plt.savefig(f"{fig_dir}/top_{n_top_genes}_driver_genes_{fate}.png", dpi=300, bbox_inches='tight')
+                else:
+                    plt.show()
 
 
     def plot_genes(self, genes, fate, smoothed=True, equal_spacing=False):
