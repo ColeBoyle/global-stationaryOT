@@ -369,7 +369,7 @@ class jaxSolver:
                 return (i < max_iter) & ((gap > tol) | jnp.isnan(gap)) # gap may be nan if we can't eval the primal/dual objective
 
             def body_fn_outer(loop_state):
-                i, gap, psi, phi, gamma, rho, h, f, state = loop_state
+                i, gap, dual_value, primal_value, psi, phi, gamma, rho, h, f, state = loop_state
 
                 psi, phi, gamma, rho, h, f, state, = jax.lax.fori_loop(0, inner_iter, inner_body_fn, (psi, phi, gamma, rho, h, f, state))
                 rC = r * C
@@ -387,15 +387,17 @@ class jaxSolver:
 
                 gap = jnp.abs(primal_value - dual_value) / (1 + jnp.abs(primal_value) + jnp.abs(dual_value))
 
-                return (i + 1, gap, psi, phi, gamma, rho, h, f, state)
+                return (i + 1, gap, dual_value, primal_value, psi, phi, gamma, rho, h, f, state)
 
             psi, phi, gamma, rho, h, f, state = init_val
 
-            init_gap = jnp.inf 
-            init_loop_state = (0, init_gap, psi, phi, gamma, rho, h, f, state)
+            init_gap = jnp.inf
+            init_dual = -jnp.inf
+            init_primal = jnp.inf 
+            init_loop_state = (0, init_gap, init_dual, init_primal, psi, phi, gamma, rho, h, f, state)
 
             final_loop_state = jax.lax.while_loop(cond_fn, body_fn_outer, init_loop_state)
-            iter, gap, psi, phi, gamma, rho, h, f, state = final_loop_state
+            iter, gap, dual_val, primal_val, psi, phi, gamma, rho, h, f, state = final_loop_state
 
             pi_array = pi_vmap(direct_sum_vmap(f, -g * f), 
                                jnp.concatenate([lam * psi, jnp.zeros((1, self.n))]), 
@@ -406,7 +408,7 @@ class jaxSolver:
             max_error = self.test_constraints_vmap(pi_array)
             Y = jnp.concatenate([psi.ravel(), phi.ravel(), f.ravel(), gamma.ravel(), rho.ravel(), h.ravel()])
 
-            return Y, pi_array, gap, iter, max_error
+            return Y, pi_array, gap, dual_val, primal_val, iter, max_error
         
         if Y0 is None:
             Y0 = 0.01 * jax.random.normal(jax.random.PRNGKey(0), shape=(2*(self.T-1)*self.n + 3*(self.T * self.n) + self.T,), dtype=self.dtype) # random init
@@ -418,10 +420,10 @@ class jaxSolver:
 
         print('Running BCA optimization...')
 
-        Y, pi_array, gap, i, max_error = run_outer_optimization(init_val, C, col_t, g, lam, w, epsilon1, epsilon2, epsilon3, r, 
+        Y, pi_array, gap, dual_val, primal_val, i, max_error = run_outer_optimization(init_val, C, col_t, g, lam, w, epsilon1, epsilon2, epsilon3, r, 
                                          max_iter=max_iter, tol=constraint_tol, inner_iter=inner_iter)
 
-        return Y, pi_array, gap, i, max_error
+        return Y, pi_array, gap, dual_val, primal_val, i, max_error
         
 
     # Deprecated LBFGS

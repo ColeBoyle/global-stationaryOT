@@ -108,7 +108,7 @@ class gStatOT:
         os.makedirs(save_dir, exist_ok=True) if save_dir is not None else None
 
     def fit(self, model_params={}, max_iter=1000, Y0=None, verbose=False, return_params=False,
-            tol=1e-3, solver_kwargs={}, solver_type='BCA'):
+            tol=1e-3, solver_kwargs={}, solver_type='BCA', return_loss=False):
         """Fit the gStatOT model to the time course.
         
         :param model_params: Dictionary containing the model parameters 'lam', 'epsilon1', 'epsilon2', 'epsilon3', 'w'. 
@@ -128,6 +128,7 @@ class gStatOT:
         :type solver_kwargs: dict
         :param solver_type: Type of solver to use. Either 'BCA' or 'LBFGS', Default is 'BCA'.
         :type solver_type: str
+        :param return_loss: If True, return the dual and primal loss values after fitting. Default is False.
         """
 
         if 'lam' not in model_params.keys():
@@ -187,7 +188,7 @@ class gStatOT:
                                  solver_type=solver_type, objective='W2')
 
             t0 = time.time()
-            params, pi_array, gap, ran_iter, error = S.solve(Y0=Y0, max_iter=max_iter, 
+            params, pi_array, gap, dual_val, primal_val, ran_iter, error = S.solve(Y0=Y0, max_iter=max_iter, 
                                            tol=tol, 
                                            verbose=verbose, 
                                            **solver_kwargs)
@@ -223,6 +224,9 @@ class gStatOT:
 
         if return_params:
             return params
+
+        elif return_loss:
+            return dual_val, primal_val
 
 
     def get_lin_fate_probs(self, label_key, all_labels=None, 
