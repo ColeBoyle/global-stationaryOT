@@ -92,6 +92,7 @@ def compute_fate_probs_lineages(P, sink_idx, labels):
     :param labels: string array of length `N` containing lineage names. Only those entries corresponding to sinks will be used.
     :return: matrix with dimensions `(N, L)` where `L` is the number of lineages with sinks.
     """
+    
     B = compute_fate_probs(P, sink_idx)
     sink_labels = np.unique(labels[sink_idx])
     B_lineages = np.array([B[:, labels[sink_idx] == i].sum(1) for i in sink_labels]).T
@@ -229,7 +230,8 @@ def plot_time_to_sink(ages, n_points_list, traj_data_ind, sink_idx_list,  ncols=
         return np.array(traj_lens)
 
 
-def downsample_adata_by_age(adata, n, time_key, PRNG_KEY=0, chosen_times=None):
+def downsample_adata_by_age(adata, n, time_key, PRNG_KEY=0, chosen_times=None,
+                            batch_ind=None):
     """
     Downsample an AnnData object by age.
 
@@ -243,6 +245,10 @@ def downsample_adata_by_age(adata, n, time_key, PRNG_KEY=0, chosen_times=None):
         The key in adata.obs that contains the time information.
     PRNG_KEY : int or jax.random.PRNGKey, optional
         The random key or seed for reproducibility. Default is 0.
+    batch_ind : int, optional
+        Zero-based index of a disjoint batch. When provided, each time point is
+        permuted reproducibly and the corresponding block of ``n`` cells is
+        selected.
 
     Returns
     -------
@@ -261,13 +267,28 @@ def downsample_adata_by_age(adata, n, time_key, PRNG_KEY=0, chosen_times=None):
         times = chosen_times
 
     n_per_time = n
+
+    if batch_ind is not None and batch_ind < 0:
+        raise ValueError("batch_ind must be non-negative")
+
+    batch_start = batch_ind * n_per_time if batch_ind is not None else None
+    batch_stop = batch_start + n_per_time if batch_start is not None else None
     
     sampled_indices = []
     
     for t in times:
         indices = np.where(adata.obs[time_key] == t)[0]
-        
-        if len(indices) <= n_per_time:
+
+        if batch_ind is not None:
+            if batch_stop > len(indices):
+                raise ValueError(
+                    f"Batch {batch_ind} requires at least {batch_stop} cells "
+                    f"at time {t}, but only {len(indices)} are available"
+                )
+            subkey, key = jax.random.split(key)
+            permuted = jax.random.permutation(subkey, indices)
+            sampled_indices.extend(np.array(permuted[batch_start:batch_stop]))
+        elif len(indices) <= n_per_time:
             sampled_indices.extend(indices)
         else:
             subkey, key = jax.random.split(key)
